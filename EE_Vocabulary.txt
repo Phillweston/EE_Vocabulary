@@ -1862,6 +1862,203 @@ hybrid model,混合模型
 hybrid simulation,混合仿真
 hydraulic actuator,液动执行机构
 
+## 电子类专业英语词汇 I
+I/O channel,输入输出出通道；I/O通道 
+ice point,冰点 ideal gas temperature scale,理想气体温标 
+ideal inherent equal percentage flow characteristic,理想固有等百分比注量特性
+identifiability,可辨识性；能辨识性 
+ignition wire,点火线 
+illuminance transducer[sensor],照度传感器 
+illuminating aperture angle,照明孔径角 
+illuminating brightness,照明亮度 
+illuminating system,照明系统 
+illumination,照度 
+image electro-magnetic shift,象电位移 
+image plane,象面 
+image point,象点 
+image recognition,图象识别 
+image rotation,象旋转 
+image transdcer[sensor],图象传感器 
+imaging system,成象系统 
+immersion depth,浸入深度 
+immersion error,浸入误差 
+immersion line(of liquid-in-glass thermometer),（玻璃温度计的）浸没线 
+immersion testing,液浸法 
+immersion type probe,水浸探头 
+impact energy,冲击能量 
+impact hammer,冲击锤体 
+impact pendulnm,冲击摆锤 
+impact specimen support,冲击试校支架 
+impact test,冲击试验 
+impact testing machine,冲击试验机 
+impact toughness,冲击韧性 
+impact velocity of the pendulum,摆锤的冲击速度 
+impedance analysis,阻抗分析 
+impedance blood volume transducer[sensor],阻抗式血容量传感器 
+impedance head,阻抗头 
+imedance plane diagram,阻抗平面图 
+impedance respiratory frequency transducer[sensor],阻抗式呼吸频率传感器 
+impeller,旋浆 
+impregnated base strain gauge,浸胶基应变计 
+impulse distance meter,脉冲式测距仪 
+impulse function,冲激函数；脉冲函数 
+impulse precision sound level meter,脉冲精密声级计 
+impulse response,冲激响应；脉冲响应 
+impulsive sound,脉冲声 
+in-situ colour meter,现场水色计 
+in-situ extraction sampler,现场萃取采水器 
+im-situ salinometer,现场盐度计 
+in-situ seawater oxygenomter,海水溶解氧现场测定仪 
+inaccuracy, 不精确度 
+inboard rotor,内重心转子 
+incline impact test,斜而冲击试验 
+ynclined-tube manometer,倾斜压力计 
+inclinometer,井斜仪 
+increase of area,断面增大率 
+increased safety electrical apparatus(Ex e),增安型电气设备（Ex e) 
+incremental control,增量控制 
+incremental motion control system,增量运动控制系统 
+incremental range,微调（增量）范围 
+incremental testing,增量测试 
+independent conforminty,独立一致性 
+independent linearity,独立线性度 
+index,指示器；指数；索引 
+index level,竖直度盘指标水准器 
+index(of an indicating device),（指示机构的）指示器 
+index of asymmetry,非对称性指数 
+index register,变址寄存器 
+indicated electrode,指示电极 
+indeicated strain,指示应变 
+indicated value,指示值 
+indicating device,指示装置；指示机构 
+indicating instrument,指示仪器仪表 
+indicating(measuring)instrument,（测量仪器仪表）的示值 
+indication point,指示点 
+indication range,示值范围 
+indicative mark,指示标志 
+indicator, 指示仪 
+indirect acting instrument,间接作用仪表 
+indirect ancting instrument,间接作用仪表 
+indirect acting recording instrument,间接作用记录仪 
+indirect(method of )measurement,间接测量（法） 
+indirect resistance heaiting,间接电阻加热 
+indirectly controlled variable,间接被控变量 
+indirectly heated type thermistor,旁热式热敏感电阻器 
+individual line,专线 
+individual nominal characteristic,单个名义特性 
+induced current image,感生电流象 
+induced curent method,感应电流法 
+induced polarization logger,井中激发极化仪 
+induced pulse transient system,感应脉冲瞬变系统 
+inductance bow,电感箱 
+inductance pressure transducer,电感式压力传感器 
+inductance transducer,感应式传感器 
+induction instrument,感应系仪表 
+induction logger,感应测井仪 
+induction meter,感应系电度表 
+induction salinometer,感应式盐度计 
+induction voltage divider,感应分压器 
+inductive displacement measuring instrument,电感式位移测量仪 
+inductive displacement transducer,电感式位移传感器 
+inductive force transducer,电感式力传感器 
+inductive micromenter,电感测微计 
+inductive modeling method,归纳建模法 
+inductive tensionmeter,电感式张力计 
+inductive transducer[sensor],电感式传感器 
+inductosyn displacment transducer,感应同步式位移传感器 
+industrial automation,工业自动化 
+industrial control,工业控制 
+industrial control system,工业控制系统 
+industrial data processing,工业数据处理 
+industrial process,工业过程 
+industrial robot,工业机器人 
+(industrial)total radiation pyrometer,辐射感温器 
+indelastic background,非弹性本底 
+inelastic scatter,非弹性散射过程 
+inert metal indicated electrode,惰性金属指示电极 
+inertia type pickup,惯性传感器 
+inertial motion,隋走量 
+inference model,推理模型 
+inference strategy,推理策略 
+inferential flowmeter,推导式流量计 
+influence characteristic,影响特性 
+influence coefficient method,影响系数法 
+influence coefficient(of an influence quantity),（影响量的）影响系数 
+influence error,影响误差 
+influence of magnetic field,磁场影响 
+influence of ship-body,船体影响 
+influence of static pressure,静压影响 
+influence of vibration,振动影响 
+influence quantity,影响量 
+information acquistion,信息采集 
+information parameter of an electrical signal,电信号的信息参数 
+information pattern,信息模式 
+information structrue,信息结构 
+information system for process control,过程控制信息系统 
+infrared camera,红外照相机 
+infrared distance meter,红外测距仪 
+infrared gas analyzer,红外线气体分析器 
+infrared hygrometer,红外湿度表 
+infrared light transducer[sensor],红外光传感器 
+infrared radiation,红外辐射；红外线；热辐射 
+infrared radiation detection apparatus,红外检测仪 
+infrared radiation thermometer,红外辐射温度计 
+infrared radiometer,红外辐射计 
+infrared radiometry,红外线探伤法 
+infrared remote sensing,红外遥感 
+infrared spectrometry,红外光谱法 
+infrared spectrophotometer,红外分光光度计 
+inherent diaphragm pressure range,固有膜片压力范围 
+inherent feedback,固有反馈 
+inherent filtration,固有滤过当量 
+inherent flow characteristic,固有流量特性 
+inherent instability,固有不稳定性 
+inherent weakness failure,固有弱质失效 
+inhibit,禁止 
+initial condition,初始条件 
+initial deviation,初始偏差 
+initial load,初负荷 
+initial phase angle,初相角 
+initial program loader(IPL),初始程序的装入程序 
+initial pulse,始脉冲 
+initial state,初（始状）态 
+initial temperature,超始温度 
+initial unbalance,初始不平衡量 
+initialization,初始化 
+initialize,初始化 
+initiator, 启动站 
+injection cross-section[station],注入横截面[部位] 
+ink jet printer,喷墨印刷机 
+inlet filter,（减压器的）过滤器 
+inlet system,进样系统 
+inner pacdage,内包装 
+in-phase voltage,同相电压 
+input and output with inolated common point,带有隔离公共点的输入和输出 
+input device,输入设备 
+input impedance,输入阻抗 
+input impedance of the magnetizing winding,激磁绕组输入阻抗 
+input impedance of the measuring winding,测量绕组输入阻抗 
+input matrix,输入矩阵 
+input/output operation,输入/输出操作 
+input/output port,输入/输出端口 
+input-output analysis,投入产出分析 
+input-output channel,输入输出通道 
+input-output device,输入输出设备 
+input-output model,投入产出稳定性 
+input-output table,投入产出表 
+input-output unit,输入输出设备 
+input prediction method,输入预估法 
+input quantity to frequency conversion type,输入量-频率转换型 
+input signal,输入信号 
+input terminal,输入端 
+input unit,输入设备 
+input variable,输入变量 
+input vector,输入向量；输入矢量 
+input with isolated common point,公共端隔离输入 
+inrush current,浪涌电流 
+insert length,插入长度 
+inside coil,内插线圈
+
 ## 电子类专业英语词汇 J
 jaw,钳口
 jerk transducer(sensor),加速度传感器

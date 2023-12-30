@@ -1,6 +1,6 @@
-## 电子类专业英语词汇 A
-|English|Chinese|
-|-|-| 
+h2(#电子类专业英语词汇-a). 电子类专业英语词汇 A
+
+|_. English|_. Chinese|
 |a. c .balance indicator|交流平衡指示器|
 |a. c. bridge|交流电桥|
 |a. c. current calibrator|交流电流校准器|
@@ -13,7 +13,7 @@
 |a. c. voltage distortion|交流电压失真|
 |Abbe comparator|阿贝比长仪|
 |aberration|象差|
-|ability of anti-prereduced component|抗先还原物质能力|
+|ability of anti&#45;prereduced component|抗先还原物质能力|
 |ablative thickness transducer [sensor]|烧蚀厚度传感器|
 |abrasion testing machine|磨损试验机|
 |absolute calibration|绝对法校准|
@@ -28,7 +28,7 @@
 |absolute pressure|绝对压力|
 |absolute(pressure transducer|绝对压力表|
 |absolute pressure transducer[sensor]|绝对压力传感器|
-|absolute read-out|单独读出|
+|absolute read&#45;out|单独读出|
 |absolute resolution|绝对分辨率|
 |absolute salinity|绝对盐度|
 |absolute stability|绝对稳定性|
@@ -46,12 +46,12 @@
 |absorption factor|吸收系数|
 |absorption hygrometer|吸收温度表|
 |absorption spectrum|吸收光谱|
-|absorption X-ray spectrometry|吸收X射线谱法|
+|absorption X&#45;ray spectrometry|吸收X射线谱法|
 |absorptivity|吸收率|
 |absorptivity of an absorbing|吸引材料的吸收率|
 |abstract system|抽象系统|
 |abundance sensitivity|丰度灵敏度|
-|AC-ACLVDT displacement transducer|交流差动变压器式位移传感器|
+|AC&#45;ACLVDT displacement transducer|交流差动变压器式位移传感器|
 |accelerated test|加速试验|
 |acceleration voltage|加速电压|
 |acceleration|加速度|
@@ -70,7 +70,7 @@
 |accessory of limited interchangeability|有限互换附件|
 |accumulated error|积累误差|
 |accumulated time difference|累积时差|
-|accumulative rain-gauge|累积雨量器|
+|accumulative rain&#45;gauge|累积雨量器|
 |accumulator|累加 器|
 |accuracy|精[准]确度|
 |accuracy class|精[准]确度等级|
@@ -94,7 +94,7 @@
 |acoustic emission preamplifier|声发射前置放大器|
 |acoustic emission pulser|声发射脉冲发生器|
 |acoustic emission rate|声发射率|
-|acoustic emission signal processor[conditioner]|声发射信号处理器 |
+|acoustic emission signal processor[conditioner]|声发射信号处理器|
 |acoustic emission rate|声发射信号|
 |acoustic emission source location and analysis system|声发射源定位及分析系统|
 |acoustic emission source location system|声发射源定位系统|
@@ -117,7 +117,7 @@
 |acoustical frequency electric|声频大地电场仪|
 |acoustical hologram|声全息图|
 |acoustical holography|声全息|
-|acoustical holography by electron-beam scanning|电子束扫描声全息|
+|acoustical holography by electron&#45;beam scanning|电子束扫描声全息|
 |acoustical holography by laser scanning|激光束扫描声全息|
 |acoustical holography by mechanical scanning|机械扫查声全息|
 |acoustical imaging by Bragg diffraction|布拉格衍射声成像|
@@ -150,11 +150,11 @@
 |actuator stem force|执行机构刚度|
 |actuator travel characteristic|执行机构行程特性|
 |adaptation layer|适应层|
-|adaptive  control|（自）适应控制|
-|adaptive  control system|适应控制系统|
-|adaptive  controller|适应控制器|
+|adaptive control|（自）适应控制|
+|adaptive control system|适应控制系统|
+|adaptive controller|适应控制器|
 |adaptive prediction|适应预报|
-|adaptive  telemetering system|适应遥测系统|
+|adaptive telemetering system|适应遥测系统|
 |adder|加法器|
 |addition method|叠加法|
 |additional correction|补充修正|
@@ -185,27 +185,27 @@
 |aging of column|柱老化|
 |agitator|搅拌器|
 |agricultural analyzer|农用分析仪|
-|air-borne gravimeter|航空重力仪|
+|air&#45;borne gravimeter|航空重力仪|
 |air capacitor|空气电容器|
 |air consumption|耗气量|
 |air damper|空气阻尼器|
-|air-deployable buoy|空投式极地浮标|
-|air-drop automatic station|空投自动气象站|
+|air&#45;deployable buoy|空投式极地浮标|
+|air&#45;drop automatic station|空投自动气象站|
 |air duct|风道|
 |air gun|空气枪|
 |air inlet|进风口|
 |air lock|气锁阀|
-|air-lock device|锁气装置|
+|air&#45;lock device|锁气装置|
 |air outlet|回风口|
 |air pressure balance|空气压力天平|
 |air pressure test|空气压力试验|
 |air sleeve|风（向）袋|
 |air temperature|气温|
-|air-tight instrument|气密式仪器仪表|
+|air&#45;tight instrument|气密式仪器仪表|
 |air to close|气关|
 |air to open|气开|
 |airborne electromagnetic system;AEM system|航空电磁系统|
-|airborne flux-gate magnetometer|航空磁通门磁力仪|
+|airborne flux&#45;gate magnetometer|航空磁通门磁力仪|
 |airborne gamma radiometer|航空伽玛辐射仪|
 |airborne gamma spectrometer|航空伽玛能谱仪|
 |airborne infrared spectroradiometer|机载红外光谱辐射计|
@@ -225,15 +225,15 @@
 |alkali flame ionization detector(AFID)|碱焰离子化检测器|
 |alkaline error|碱误差|
 |alkalinity of seawater|海水碱度|
-|all-sky camera|全天空照相机|
-|all-weather wind vane and anemometer|全天候风向风速计|
+|all&#45;sky camera|全天空照相机|
+|all&#45;weather wind vane and anemometer|全天候风向风速计|
 |allocation problem|配置问题；分配问题|
 |allowable load impedance|允许的负载阻抗|
 |allowable pressure differential|允许压差|
 |allowable unbalance|许用不平衡量|
 |alpha spectrometer|α粒子能谱仪|
 |alternating[exchange]load|交变负荷|
-|alternating-current linear variable differential transformer(AC-ACLVDT)|交流极谱仪|
+|alternating&#45;current linear variable differential transformer(AC&#45;ACLVDT)|交流极谱仪|
 |alternating temperature humidity test chamber|交变湿热试验箱|
 |altimeter|高度计|
 |altitude angle|高度角|
@@ -250,20 +250,20 @@
 |amount of precipitation|雨量|
 |amount of unbalance|不平衡量|
 |amount of unbalance indicator|不平衡量指示器|
-|ampere-hour meter|安时计|
+|ampere&#45;hour meter|安时计|
 |amplitude|幅值|
 |amplitude detector module|振幅检测组件|
 |amplitude error|振幅误差|
 |amplitude modulation(AM)|幅度调制；调幅|
-|amplitude-phase error|幅相误差|
-|amplitude ratio-phase difference instrument|振幅比—相位差仪|
+|amplitude&#45;phase error|幅相误差|
+|amplitude ratio&#45;phase difference instrument|振幅比 -- 相位差仪|
 |amplitude response|幅值响应|
 |analog computer|模拟计算机|
 |analog control|模拟控制|
 |analog data|模拟数据|
-|analog deep-level seismograph|模拟深层地震仪|
+|analog deep&#45;level seismograph|模拟深层地震仪|
 |analog input|模拟输入|
-|analog magnetic tape record type strong-motion instrument|模拟磁带记录强震仪|
+|analog magnetic tape record type strong&#45;motion instrument|模拟磁带记录强震仪|
 |analog model|模拟模型|
 |analog output|模拟输出|
 |analog seismograph tape recorder|模拟磁带地震记录仪|
@@ -272,16 +272,16 @@
 |analog superconduction magnetometer|模拟式超导磁力仪|
 |analog system|模拟系统|
 |analog telemetering system|模拟遥测系统|
-|analog-to-digital conversion accuracy|模-数转换精确度|
-|analog-to-digital conversion rate|模-数转换速度|
+|analog&#45;to&#45;digital conversion accuracy|模&#45;数转换精确度|
+|analog&#45;to&#45;digital conversion rate|模&#45;数转换速度|
 |analog transducer[sensor]|模拟传感器|
 |analogue computer|模拟计算单元|
 |analogue date|模拟数据|
 |analogue measuring instrument|模拟式测量仪器仪表|
-|analogue representation of a physical quantity|物理量的模拟表示 |
+|analogue representation of a physical quantity|物理量的模拟表示|
 |analogue signal|模拟试验|
-|analogue-digital converter;A/D converter|模-数转换器；A/D转换器|
-|analogue-to-digital conversion|模/数转[变]换|
+|analogue&#45;digital converter;A/D converter|模&#45;数转换器；A/D转换器|
+|analogue&#45;to&#45;digital conversion|模/数转[变]换|
 |analysis of simulation experiment|仿真实验分析|
 |analytical balance|分析天平|
 |analytical electron microscope|分析型电子显微镜|
@@ -309,12 +309,12 @@
 |angle refraction|折射角|
 |angle spread|指向角；半扩散角|
 |angle of view of telescope|望远镜视场角|
-|angle of X-ray projection|X射线辐射圆锥角|
+|angle of X&#45;ray projection|X射线辐射圆锥角|
 |angle probe|斜探头|
-|angle-resolved electron spectroscopy(ARES)|角分辨电子谱法|
+|angle&#45;resolved electron spectroscopy(ARES)|角分辨电子谱法|
 |angle strain|角应变|
 |angle transducer[sensor]|角度传感器|
-|angle-attack transducer[sensor]|迎角传感器|
+|angle&#45;attack transducer[sensor]|迎角传感器|
 |angle valve|角形阀|
 |angular acceleration|角加速度|
 |angular acceleration transducer[sensor]|角加速度传感器|
@@ -329,13 +329,13 @@
 |annunciator|信号源|
 |anode|阳极|
 |answering|应答|
-|anti-cavitation valve|防空化阀|
-|anti-contamination device|防污染装置|
-|anti-coupling bi-frequency induced polarization instrument|抗耦双频 激电仪|
-|anti-magnetized varistor|消磁电压敏电阻器|
+|anti&#45;cavitation valve|防空化阀|
+|anti&#45;contamination device|防污染装置|
+|anti&#45;coupling bi&#45;frequency induced polarization instrument|抗耦双频 激电仪|
+|anti&#45;magnetized varistor|消磁电压敏电阻器|
 |antiresonance|反共振|
 |antiresonance frequency|反共振频率|
-|anti-stocks line|反斯托克线|
+|anti&#45;stocks line|反斯托克线|
 |aperiodic damping|非周期阻尼；过阻尼|
 |aperiodic vibration|非周期振动|
 |aperture|光阑|
@@ -359,8 +359,8 @@
 |arctic buoy|极地浮标|
 |area effect|面积影响|
 |area location|区域定位|
-|area of cross-section of the main airflow|主送风方向横截面积|
-|argon-ion gun|氩离子枪|
+|area of cross&#45;section of the main airflow|主送风方向横截面积|
+|argon&#45;ion gun|氩离子枪|
 |annular chamber|环室|
 |argon ionization detector|氩离子化检测器|
 |arithmetic logic unit(ALU)|算术逻辑运算单元|
@@ -399,7 +399,7 @@
 |atomic mass unit|原子质量单位|
 |atomic number correction|原子序数修正|
 |atomic spectrum|原子光谱|
-|atomic-absorption spectrophotometer|原子吸收分光光度计|
+|atomic&#45;absorption spectrophotometer|原子吸收分光光度计|
 |atomization|原子化|
 |atomizer|原子化器|
 |attenuation|衰减|
@@ -409,18 +409,18 @@
 |attitude|姿态|
 |attitude transducer[sensor]|姿态传感器|
 |audio monitor|监听器|
-|audio-frequency spectrometer|声频频谱仪|
+|audio&#45;frequency spectrometer|声频频谱仪|
 |audit|审核|
 |Auger electron energy spectrometer(AEES)|俄歇电子能谱仪|
 |aurora|极光|
 |Auger electron image|俄歇电子象|
 |Auger electron spectrometer|俄歇电子能谱仪|
 |Auger electron spectroscopy(AES)|俄歇电子能谱法|
-|auto-compensation logging instrument|电子自动测井仪|
-|auto-compound current transformer|自耦式混合绕组电流互感器|
-|auto-polarization compensator|自动极化补偿器|
+|auto&#45;compensation logging instrument|电子自动测井仪|
+|auto&#45;compound current transformer|自耦式混合绕组电流互感器|
+|auto&#45;polarization compensator|自动极化补偿器|
 |autocorrelation function|自相关函数|
-|automatic a.c.|d.c. B-H curve tracer,交、直流磁特性自动记录装置 |
+|automatic a.c.|d.c. B&#45;H curve tracer,交、直流磁特性自动记录装置|
 |automatic balancing machine|自动平衡机|
 |automatic control|自动控制|
 |automatic control source of vacuum|真空自动控制电源|
@@ -469,10 +469,11 @@
 |axial vibration|轴向振动|
 |axis of rotation|摆轴；旋转轴|
 |axis of strain gauge|应变计[片]轴线|
-## 电子类专业英语词汇 B 
-|English|Chinese|
-|-|-| 
-|B-scope|B型显示|
+
+h2(#电子类专业英语词汇-b). 电子类专业英语词汇 B 
+
+|_. English|_. Chinese|
+|B&#45;scope|B型显示|
 |backflushing|反吹|
 |background|后台，背景，本底|
 |background current|基流|
@@ -531,7 +532,7 @@
 |beam path distance|声程|
 |beam ratio|声束比|
 |beam spot diameter|束斑直径|
-|beam-deflection ultrasonic flowmeter|声速偏转式超声流量计 beam-loading thermobalance,水平式热天平|
+|beam&#45;deflection ultrasonic flowmeter|声速偏转式超声流量计 beam&#45;loading thermobalance,水平式热天平|
 |bearing|轴承；刀承|
 |bearing axis|轴承中心线|
 |bearing support|支承架|
@@ -554,13 +555,13 @@
 |betatron|电子回旋加速器；电子感应加速器|
 |bezel ring|盖环|
 |bias voltage|偏压|
-|bi-directional vane|双向风向标；双风信标|
+|bi&#45;directional vane|双向风向标；双风信标|
 |bilateral current stabilizer|双向稳流器|
 |bimetallic element|双金属元件|
 |bimetallic instrument|双金属式仪表|
-|bimetallic temperature transducer[sensor]|双金属温度传感器 |
+|bimetallic temperature transducer[sensor]|双金属温度传感器|
 |bimetallic thermometer|双金属温度计|
-|binary coded decimal(BCD)|二-十进制编码|
+|binary coded decimal(BCD)|二&#45;十进制编码|
 |binary control|二进制控制|
 |binary digital|二进制数字|
 |binary elastic scattering event|双弹性散射过程|
@@ -577,7 +578,7 @@
 |bit|比特；位|
 |bit error rate|误码率|
 |bit serial|位串行|
-|bit-serial highway|位串行信息公路|
+|bit&#45;serial highway|位串行信息公路|
 |bivane|双向风向标；双风信标|
 |black box|未知框|
 |black light filter|透过紫外线的滤光片|
@@ -598,13 +599,13 @@
 |blood electrolyte transducer[sensor]|血液电解质传感器|
 |blood flow transducer[sensor]|血流传感器|
 |blood gas transducer[sensor]|血气传感器|
-|blood-group immune transducer[sensor]|免疫血型传感器|
+|blood&#45;group immune transducer[sensor]|免疫血型传感器|
 |blood oxygen transducer[sensor]|血氧传感器|
 |blood PH transducer[sensor]|血液PH传感器|
 |blood potassium ion transducer[sensor]|血钾传感器|
-|blood-pressure transducer[sensor]|血压传感器|
+|blood&#45;pressure transducer[sensor]|血压传感器|
 |blood sodium ion transducer[sensor]|血钠传感器|
-|blood-volume transducer[sensor]|血容量传感器|
+|blood&#45;volume transducer[sensor]|血容量传感器|
 |blower device|鼓风装置|
 |bluff body|阻流体|
 |Bode diagram|博德图|
@@ -616,7 +617,7 @@
 |boomerang grab|自返式取样器|
 |boomerang gravity corer|自返式深海取样管|
 |booster|增强器|
-|bore(of liquid-in-glass thermometer)|（玻璃温度计的）内孔|
+|bore(of liquid&#45;in&#45;glass thermometer)|（玻璃温度计的）内孔|
 |borehole acoustic television logger|超声电视测井仪|
 |borehole compensated sonic logger|补偿声波测井仪|
 |borehole gravimeter|井中重力仪|
@@ -624,14 +625,14 @@
 |borehole thermometer|井温仪|
 |bottom echo|底面反射波|
 |bottom flange|下阀盖|
-|bottom-loading thermobalance|下皿式热天平|
+|bottom&#45;loading thermobalance|下皿式热天平|
 |bottom surface|底面|
 |Bouguer's law|伯格定律|
 |Bourdon pressure sensor|弹簧管压力检测元件|
 |Bourdon tube|弹簧管；波登管|
 |Bourdon tube(pressure)gauge|弹簧管压力表|
 |box gauge|箱式验潮仪|
-|BP-scope|BP 型显示|
+|BP&#45;scope|BP 型显示|
 |Bragg's equation|布拉格方程|
 |braking time|制动时间|
 |braking torque(of an integrating instrument)|（积分式仪表的）制动力矩|
@@ -654,19 +655,19 @@
 |broadband random vibration|宽带随机振动|
 |broadband spectrum|宽波段|
 |broadcast|广播|
-|BT-calibration installation|深温计[BT]检定装置|
+|BT&#45;calibration installation|深温计[BT]检定装置|
 |bubble|水准泡|
-|bubble-tube|吹气管|
+|bubble&#45;tube|吹气管|
 |bucket thermometer|表层温度表|
 |buffer|缓冲器|
 |buffer solution|缓冲溶液|
 |buffer storage|缓冲存储器|
-|built-in galvanometer|内装式检流计|
-|built-in-weights|挂码|
+|built&#45;in galvanometer|内装式检流计|
+|built&#45;in&#45;weights|挂码|
 |bulb|温包；感温泡|
 |bulb(of filled system thermometer)|（压力式温度计的）温包|
-|bulb(of liquid-in-glass thermometer)|（玻璃温度计的）感温泡|
-|bulb length(of liquid-in-glass thermometer)|（玻璃温度计的）感温泡长度|
+|bulb(of liquid&#45;in&#45;glass thermometer)|（玻璃温度计的）感温泡|
+|bulb length(of liquid&#45;in&#45;glass thermometer)|（玻璃温度计的）感温泡长度|
 |bulk type semiconductor strain gauge|体型半导体应变计|
 |bulk zinc oxide varistor|体型氧化锌电压敏电阻器|
 |bump|连续冲击|
@@ -690,13 +691,14 @@
 |bus slave|总线从设备|
 |bus topology|总线拓扑|
 |bus type|总线类型|
-## 电子类专业英语词汇 C 
-|English|Chinese|
-|-|-| 
-|C-scope|C型显示|
+
+h2(#电子类专业英语词汇-c). 电子类专业英语词汇 C 
+
+|_. English|_. Chinese|
+|C&#45;scope|C型显示|
 |cabinet|柜|
 |cable noise|电缆噪声|
-|cable-tension transducer|电缆张力传感器|
+|cable&#45;tension transducer|电缆张力传感器|
 |cable type current transformer|电缆式电流互感器|
 |cage|套 筒；潜水罐笼|
 |cage guiding|套筒导向|
@@ -728,9 +730,9 @@
 |calibration table|校准表（格）|
 |calibration traceability|校准溯源性|
 |calibrator|校验器|
-|calibrator above ice-point|零上检定器|
-|calibrator below ice-point|零下检定器|
-|calibrator for ice-point|零点检定器|
+|calibrator above ice&#45;point|零上检定器|
+|calibrator below ice&#45;point|零下检定器|
+|calibrator for ice&#45;point|零点检定器|
 |caliper profiler|横幅厚度计|
 |calling|呼叫|
 |calomel electrode|甘汞电极|
@@ -738,7 +740,7 @@
 |calorimeter|热量计|
 |cam bezel ring|卡口式盖环|
 |CAMAC branch driver|CAMAC 分支驱动器|
-|CAMAC branch-highway|CAMAC 分支信息公路|
+|CAMAC branch&#45;highway|CAMAC 分支信息公路|
 |CAMAC compatible crate|CAMAC兼容机箱|
 |CAMAC crate|CAMAC 机箱|
 |CAMAC crate assembly|CAMAC 机箱装置|
@@ -751,7 +753,7 @@
 |CAMAC system|CAMAC 系统|
 |camera length|相机长度|
 |camflex valve|偏心旋转阀|
-|Campbell-stokes sunshine recorder|聚集日照计；歇贝斯托克日照计|
+|Campbell&#45;stokes sunshine recorder|聚集日照计；歇贝斯托克日照计|
 |canonical state variable|规范化状态变量|
 |capacitance balance|电容平衡|
 |capacitance hygrometer|电视湿度计|
@@ -762,14 +764,14 @@
 |capillary gas chromatograph|毛细管气相色谱仪|
 |capillary gas chromatography|毛细管气相色谱法|
 |capillary phenomenon|毛细现象|
-|capillary tube (of liquid-in-glass thermometer)|(玻璃温度计的）毛细管|
+|capillary tube (of liquid&#45;in&#45;glass thermometer)|(玻璃温度计的）毛细管|
 |capillary viscometer|毛细管粘度计|
 |capsule|膜盒|
 |capsule(pressure)gauge|膜盒压力表|
 |captive chains calibration|链码校准|
 |carat balance|克拉天平|
 |carbon and hydrogen analysis meter|碳氢元素分析仪|
-|carbon humidity-dependent resistor|碳湿敏电阻器|
+|carbon humidity&#45;dependent resistor|碳湿敏电阻器|
 |card punch|卡片穿孔机|
 |card reader|卜片阅读机|
 |Carlson type strain gauge|卡尔逊应变计|
@@ -833,14 +835,14 @@
 |character code|字符码|
 |character recognition|字符识别|
 |character set|字符集；字符组|
-|character-at-time printer|一次一字符打印机[印刷机]；串行打印机|
+|character&#45;at&#45;time printer|一次一字符打印机[印刷机]；串行打印机|
 |characteristic curve|特性曲线|
-|characteristic "fast"|“快”特性|
-|characteristic "impulse"|“脉冲”响应特性|
-|characteristic"slow"|“慢”特性|
+|characteristic &quot;fast&quot;|“快”特性|
+|characteristic &quot;impulse&quot;|“脉冲”响应特性|
+|characteristic&quot;slow&quot;|“慢”特性|
 |characteristic locus|特征轨迹|
 |characteristic impedance|特性阻抗|
-|characteristic X-ray|特征X射线|
+|characteristic X&#45;ray|特征X射线|
 |charge amplifier|电荷放大器|
 |charge neutralization|电荷中和|
 |charge sensitivity|电荷灵敏度|
@@ -848,8 +850,8 @@
 |chart driving mechanism|传纸机构|
 |chart lines|记录纸分度线|
 |chart scale length|记录纸标度尺长度|
-|closed-loop transfer function|闭环传递函数|
-|closed-loop zero|闭环零点|
+|closed&#45;loop transfer function|闭环传递函数|
+|closed&#45;loop zero|闭环零点|
 |closed position|关闭位置|
 |closed system|封闭系统|
 |closing valve time|关阀时间|
@@ -865,8 +867,8 @@
 |cloud searchlight|云幂灯|
 |cloud speed|云速|
 |cloud top|云顶|
-|cloud-based recorder|云底记录仪|
-|cloud-drop sampler|云滴取校器|
+|cloud&#45;based recorder|云底记录仪|
+|cloud&#45;drop sampler|云滴取校器|
 |cloudiness radiometer|云辐射仪|
 |cloverleaf buoy|三叶浮标|
 |Coanda effect|附壁效应|
@@ -875,7 +877,7 @@
 |coaxiality|同轴度 code,代码；代号；规程；规范|
 |code converter;D/D converter|代码转换器；D/D转换器|
 |coded circle|编码度盘|
-|code-transparent data communication|代码透明的数据通信|
+|code&#45;transparent data communication|代码透明的数据通信|
 |coefficient of chromatic aberration|色差系数|
 |coefficient of interference|干扰系数|
 |coefficient of radial distortion|径向畸变系数|
@@ -889,7 +891,7 @@
 |coincidence discrimination|符合鉴别|
 |coincidence level|度盘合像装置|
 |cold test|寒冷试验|
-|cold-cathode source|冷阴极离子源|
+|cold&#45;cathode source|冷阴极离子源|
 |collate|整理|
 |collector|集电器|
 |collector slit|接收器狭缝|
@@ -904,12 +906,13 @@
 |column|镜筒|
 |column capacity|柱效能|
 |column life|柱寿命|
-## 电子类专业英语词汇 D 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-d). 电子类专业英语词汇 D 
+
+|_. English|_. Chinese|
 |D and D/2 pressure tappings|D和D/2 取压口|
-|D-port|D型端口|
-|DC-DC LVDT displacement transducer|直流差动变压器式位移传感器|
+|D&#45;port|D型端口|
+|DC&#45;DC LVDT displacement transducer|直流差动变压器式位移传感器|
 |d.c.bridge for measuring high resistance|直流高阻电桥|
 |d.c.bridge for measuring resistance|测量电阻用的直流电桥|
 |d.c.comparator potentiometer|直流比较仪式电位差计|
@@ -941,11 +944,11 @@
 |database management system|数据库管理系统|
 |data buoy system|数据浮标系统|
 |data circuit|数据电路|
-|data circuit-terminating equipment(DCE)|数据电路终接设备|
+|data circuit&#45;terminating equipment(DCE)|数据电路终接设备|
 |data communication|数据通信|
 |data concentration|数据集中|
 |data concentrator|数据集中分配器|
-|data-driven|数据驱动|
+|data&#45;driven|数据驱动|
 |data encryption|数据加密|
 |data flow diagram|数据流图|
 |data highway|数据公路|
@@ -970,7 +973,7 @@
 |data transfer rate|数据传送率；数据传输速率|
 |data transmission|数据传输|
 |data transmission interface|数据传输接口|
-|data way|（机箱）  数据路|
+|data way|（机箱） 数据路|
 |dataway operation|（机箱）数据路操作|
 |dead band|死区|
 |dead band error|死区误差|
@@ -1016,8 +1019,8 @@
 |delayed telemetry|延时遥测|
 |delimiter bit|定界位|
 |delimiter byte|定界定节|
-|delta-T|时间差；时差|
-|delta-T timing unit|时差计时单元|
+|delta&#45;T|时间差；时差|
+|delta&#45;T timing unit|时差计时单元|
 |demagnetization|退磁|
 |demagnetizer|退磁机；退磁装置|
 |demagnetizing coil|消磁线圈|
@@ -1046,7 +1049,7 @@
 |depth scan|前后扫查|
 |depth sounding|测深|
 |derivative absorption spectrum|导数吸收光谱|
-|derivative action;D-action|微分作用；D-作用|
+|derivative action;D&#45;action|微分作用；D&#45;作用|
 |derivative action coefficient|微分作用系数|
 |derivative action gain|微分作用增益|
 |derivative action time|微分作用时间|
@@ -1068,7 +1071,7 @@
 |desorption chemical ionization(DCI)|解吸化学电离|
 |destination|目的站|
 |detectability|可检测性；能检测性；检测能力|
-|detectability(chromatographic)| （色谱）检测限|
+|detectability(chromatographic)|（色谱）检测限|
 |detecting instrument|检出器；检测元件；检波器|
 |developer|显示剂|
 |development tank|展开罐|
@@ -1079,11 +1082,11 @@
 |device|装置|
 |Device Net 总线；装置网||
 |dew cell|露池|
-|dew-point|露点|
-|dew-point hygrograph|露点计|
-|dew-point hygrometer|露点湿度计；露点湿度表|
-|dew-point temperature|露点温度|
-|dew-point transducer[sensor]|露点传感器|
+|dew&#45;point|露点|
+|dew&#45;point hygrograph|露点计|
+|dew&#45;point hygrometer|露点湿度计；露点湿度表|
+|dew&#45;point temperature|露点温度|
+|dew&#45;point transducer[sensor]|露点传感器|
 |dew gauge|露量表；露量器|
 |diagnostic function|诊断功能|
 |diagnostic model|诊断模型|
@@ -1099,7 +1102,7 @@
 |diaphragm gas meter|膜式煤气表|
 |deaphragm(pressure)gauge|膜片压 力表|
 |diaphragm pressure span|膜片压力量程|
-|diaphragm-seal(pressure) gauge|隔膜压力表|
+|diaphragm&#45;seal(pressure) gauge|隔膜压力表|
 |diaphragm strain gauge|膜片式应变计|
 |diaphragm valve|隔膜阀|
 |dielectric amplitude induction logging instrument|幅度介电感应测井仪|
@@ -1124,9 +1127,10 @@
 |differential preamplifier|差动前置放大器|
 |differential pressure|差压|
 |differential pressure devices|差压装置|
-## 电子类专业英语词汇 E 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-e). 电子类专业英语词汇 E 
+
+|_. English|_. Chinese|
 |early failure|早期失效|
 |earth leakage detector|接地漏电检示器|
 |earth resistance meter|接地电阻表|
@@ -1141,7 +1145,7 @@
 |echo|反射波；回波|
 |echo height|反射波高度|
 |echo sounder|回声测深仪|
-|eco-buoy|生态浮标|
+|eco&#45;buoy|生态浮标|
 |economic analysis|经济分析|
 |economic control|经济控制|
 |economic control theory|经济控制理论|
@@ -1156,13 +1160,13 @@
 |economic indicator|经济指标|
 |economic model|经济模型|
 |economic system model.经济系统模型||
-|eddy-current|涡流|
-|eddy-current displacement vibration amplitude measuring instrument|电涡流式位移振幅测量仪|
-|eddy-current displacement vibration amplitude transducer|电涡注式位移振幅传感器|
-|eddy-current inspection instrument|涡流探伤仪|
-|eddy-current testing method|涡流探伤法|
-|eddy-current thickness meter|电涡流厚流计|
-|eddy-current type transducer|涡流式传感器|
+|eddy&#45;current|涡流|
+|eddy&#45;current displacement vibration amplitude measuring instrument|电涡流式位移振幅测量仪|
+|eddy&#45;current displacement vibration amplitude transducer|电涡注式位移振幅传感器|
+|eddy&#45;current inspection instrument|涡流探伤仪|
+|eddy&#45;current testing method|涡流探伤法|
+|eddy&#45;current thickness meter|电涡流厚流计|
+|eddy&#45;current type transducer|涡流式传感器|
 |eddy diffusion|涡流扩散|
 |eddy velocity|涡动速度|
 |edge effect|边缘效应|
@@ -1184,10 +1188,10 @@
 |efflux viscometer|流出式粘度计|
 |egoless programming|无私程序设计|
 |egoless programming|无私程序设计|
-|EI-CI source|电子轰击—化学电离源|
+|EI&#45;CI source|电子轰击 -- 化学电离源|
 |eigen frequency|特征频率|
 |Ekman current meter|厄克曼海流计|
-|elastic after-effect|弹性后效|
+|elastic after&#45;effect|弹性后效|
 |elastic background|弹性元件|
 |elastic limit|弹性极限|
 |elastic scatter|弹性散射|
@@ -1196,19 +1200,19 @@
 |elastomer diaphragm|橡胶膜片|
 |electret microphone|驻极体传声器|
 |electric actuator|电动执行机构|
-|electric contact liquid-in-glass thermometer|电接点玻璃温度计|
+|electric contact liquid&#45;in&#45;glass thermometer|电接点玻璃温度计|
 |electric contact set|电接点装置|
 |electric control|电动控制|
 |electric current transducer[sensor]|电流传感器|
 |electric field controller|电场控制仪|
 |electric field strength transducer[sensor]|电场强度传感器|
-|electric hydraulic converter|电—液转换器|
+|electric hydraulic converter|电 -- 液转换器|
 |electric logger|电测井仪器|
 |electric measurement technique of strain gauge|应变计电测技术|
 |electric operation station|电动操作器|
 |electric pneumatic converter|位置发送器|
 |electric quantity transducer[sensor]|电学量传感器|
-|electric resistance and dielectric constant measuring unit|电阻—静电 容量测量仪|
+|electric resistance and dielectric constant measuring unit|电阻 -- 静电 容量测量仪|
 |electric system|电气系统|
 |electrical capacitance level measuring device|电容物位测量装置|
 |electrical center|电中心|
@@ -1218,7 +1222,7 @@
 |electrical(measurement)method|电测法|
 |electrical measurement method of optical pyrometer|光学高温计电测法|
 |electrical measuring instrument|电（工）测量仪器仪表；电法勘探仪器|
-|electrical power consumption|（电）  功耗|
+|electrical power consumption|（电） 功耗|
 |electrical resonance frequency of the moving element|运动部件电谐振频率|
 |electrical signal|电信号|
 |electrical thermometer|电测温度表|
@@ -1226,9 +1230,9 @@
 |electrical zero|电零位；电零点|
 |electrical zero adjuster|电零位调节器；电零点调整器|
 |electrically heated drying cabinet|电热干燥箱|
-|electro-cardiography transducer[sensor]|心电图（ECG）传感器|
-|electro-hydraulic servo-controlled fatigue testing machine|电液伺服疲劳试验机|
-|electro-optical distance meter|光电测距仪|
+|electro&#45;cardiography transducer[sensor]|心电图（ECG）传感器|
+|electro&#45;hydraulic servo&#45;controlled fatigue testing machine|电液伺服疲劳试验机|
+|electro&#45;optical distance meter|光电测距仪|
 |electroacoustic transducer|电声换能器|
 |electroacoustical reciprocity theorem|电声互易定理|
 |electrode|电极|
@@ -1239,7 +1243,7 @@
 |electrode signal|电极信号|
 |electrode type salinometer|电极式盐度计|
 |electrode with a mobile carrier|流动载体电极|
-|electrodeless-discharge lamp|无极放电灯|
+|electrodeless&#45;discharge lamp|无极放电灯|
 |electrodialysis method for desalination|电渗析淡化法|
 |electrodynamic instrument|电动系仪表|
 |electrodynamic meter|电动系电度表|
@@ -1301,12 +1305,13 @@
 |electron optics|电子光学|
 |electron paramagnetic resonance spectroscopy; EPR spectroscopy|电子顺磁共振波谱法|
 |electron probe|电子探针|
-|electron probe micro-analysis(EPMA)电子探针微分析||
-|electron probe X-ray microanalyzer|电子探针X射线微区分析仪|
+|electron probe micro&#45;analysis(EPMA)电子探针微分析||
+|electron probe X&#45;ray microanalyzer|电子探针X射线微区分析仪|
 |electron spectrometer|电子能谱仪|
-## 电子类专业英语词汇 F 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-f). 电子类专业英语词汇 F 
+
+|_. English|_. Chinese|
 |face to face dimension|端面距尺寸|
 |facsimile seismograph|传真式地震仪|
 |factory communication|工厂通信|
@@ -1328,12 +1333,12 @@
 |false strain|虚假应变|
 |fanning mill anemometer|叶轮式风速表|
 |far field|远场|
-|far infra-red radiant element|远红外副射元件|
+|far infra&#45;red radiant element|远红外副射元件|
 |far infrared radiation|远红外辐射|
 |Faraday cage|静电屏蔽|
 |farinfrared spectrophotometer|远红外分光光度计|
 |fast atom bombardment|（FAB），快速原子轰击|
-|faster-than-real-time simulation|超实时仿真|
+|faster&#45;than&#45;real&#45;time simulation|超实时仿真|
 |fatigue|疲劳|
 |fatigue characteristic|疲劳特性|
 |fatigue failure|疲劳破裂|
@@ -1385,7 +1390,7 @@
 |field rdliability test|现场可靠性试验|
 |field stop|视场光栏|
 |field sweeping|场扫描|
-|field-frequency lock|场频锁|
+|field&#45;frequency lock|场频锁|
 |fieldbus|现场总线|
 |fieldbus control system(FCS)|现场总线控制系统|
 |filament image|灯丝象|
@@ -1416,7 +1421,7 @@
 |firmware|固件|
 |fish finder|鱼探仪|
 |fitting|管件|
-|five-component borehole magnetometer|井中五分量磁测井仪|
+|five&#45;component borehole magnetometer|井中五分量磁测井仪|
 |fixed core|定铁芯|
 |fixed(measuring)instrument|固 定式（测量）仪表|
 |fixed points method of calibration|定点法标定|
@@ -1424,7 +1429,7 @@
 |fixed resistance output type volt ratio box|定阻输出式分压箱|
 |fixed set point control|定值控制|
 |fixed set point control system|定值控制系统|
-|fixed-based natural frequency|固定基础固有频率|
+|fixed&#45;based natural frequency|固定基础固有频率|
 |flag|标记|
 |flame emission spectrometry|火焰发射光谱法|
 |flame ionization detector(FID)|火焰离子化检测器|
@@ -1450,7 +1455,7 @@
 |float barograph|浮子气压计|
 |float level measuring device|浮子液位测量装置|
 |float level regulator|浮子型液位调节阀|
-|float level transducer[sensor]|浮子—干簧管液位传感器|
+|float level transducer[sensor]|浮子 -- 干簧管液位传感器|
 |float tide gauge|浮子式验潮仪|
 |floating accelerometer|重力式测波仪|
 |floating ball|浮置输入|
@@ -1475,8 +1480,8 @@
 |flow to open|流开|
 |flow transducer[sensor]|流量传感器|
 |flowmeter|流量计|
-|flow-rate|流量|
-|flow- rate range|流量范围|
+|flow&#45;rate|流量|
+|flow&#45; rate range|流量范围|
 |fluctuation|波动（度）|
 |fluid damping galvanometer|液体阻尼振动子|
 |fluidic flowmeter|射流流量计|
@@ -1504,18 +1509,18 @@
 |focal point|焦点|
 |focus|焦点|
 |focus size|焦点尺寸|
-|focus-to-film distance|焦距|
+|focus&#45;to&#45;film distance|焦距|
 |focusing|聚焦|
 |focusing type probe|聚焦探头|
-|fog-gauge|雾量器|
+|fog&#45;gauge|雾量器|
 |foil strain gauge|箔式应变计|
 |folding chart[paper]|折叠式记录纸|
-|follow-up control|随动控制|
-|follow-up pointer|从动针|
+|follow&#45;up control|随动控制|
+|follow&#45;up pointer|从动针|
 |food analyzer|食品分析仪|
 |force|力|
-|force-balance acceleration transducer|力平衡式加速度传感器|
-|force-balance accelerometer|力平衡式加速度计|
+|force&#45;balance acceleration transducer|力平衡式加速度传感器|
+|force&#45;balance accelerometer|力平衡式加速度计|
 |force convection|强近对流|
 |force standard machine|力标准机|
 |force transducer[sensor]|力传感器|
@@ -1526,56 +1531,57 @@
 |Fortin barometer|福丁气压表|
 |forward channel|正向信道|
 |Foundation Fieldbus(FF)|基金会现场总线；FF总线|
-|four-terminal standard resistor|四端（钮）标准电阻器|
+|four&#45;terminal standard resistor|四端（钮）标准电阻器|
 |Fourier transform|傅里叶变换|
-|Fouier transform ion cyclotron resonance mass spertrometer (FT-ICR-MS)|傅立叶变换离子回旋共振质谱计|
-## 电子类专业英语词汇 G 
-|English|Chinese|
-|-|-| 
+|Fouier transform ion cyclotron resonance mass spertrometer (FT&#45;ICR&#45;MS)|傅立叶变换离子回旋共振质谱计|
+
+h2(#电子类专业英语词汇-g). 电子类专业英语词汇 G 
+
+|_. English|_. Chinese|
 |gain|增益|
 |gain margin|增益裕度|
-|gain-crossover frequency|增益交越频率|
+|gain&#45;crossover frequency|增益交越频率|
 |galvanic cell|原电池|
 |galvanometer|检流计|
-|galvanometer record type strong-motion instrument|电流计记录式强震仪|
+|galvanometer record type strong&#45;motion instrument|电流计记录式强震仪|
 |galvanometer with optical point|光点式检流计|
 |game theory|对策论；博弈树|
 |gamma directional radiometer|伽玛定向辐射仪|
 |gamma processing image|处理象|
 |gamma radiometer in borehole|井中伽玛辐射仪|
-|gamma-ray detection apparatus|射线探伤机|
+|gamma&#45;ray detection apparatus|射线探伤机|
 |gamma ray level measuring device|伽马射线液位测量装置|
 |gamma(ray)spectrometer|伽玛能谱仪|
-|gamma-rays|射线|
+|gamma&#45;rays|射线|
 |gamma ray logger|伽玛测井仪|
 |gamma sampling radiometer of banded screen|带屏伽玛取样加射仪|
 |gamma scintillator radiometer|伽玛闪烁辐射仪|
 |gamma spectrometer in borehole|井下伽玛能谱仪|
-|gamma-spectrometry|伽玛测量|
+|gamma&#45;spectrometry|伽玛测量|
 |gas analyzer|气体分析器|
 |gas chromatograph|气相色谱仪|
-|gas chromatograph-mass spectrometer(GC0MS)|气相色谱—质谱联用仪接口|
+|gas chromatograph&#45;mass spectrometer(GC0MS)|气相色谱 -- 质谱联用仪接口|
 |gas chromatography|气相色谱法|
-|gas chromatorgaphy-mass(GC-MS)|气相色谱—质谱法|
+|gas chromatorgaphy&#45;mass(GC&#45;MS)|气相色谱 -- 质谱法|
 |gas cylinder regulator|气瓶减压器|
 |gas densitometer|气体密度计|
-|gas-discharge source|气体放电源|
-|gas-enclosed pressure gauge|气密引压式验尚潮仪|
+|gas&#45;discharge source|气体放电源|
+|gas&#45;enclosed pressure gauge|气密引压式验尚潮仪|
 |gas generator|气体发生器|
 |gas laser|气体激光器|
-|gas-liquid chromatography|气液色谱法|
+|gas&#45;liquid chromatography|气液色谱法|
 |gas proportional detector|气体正比检测器|
 |gas pump thermocouple|抽气式热电偶|
 |gas purged pressure recording gauge|补气引压式验潮仪|
 |gas sensing electrode|气敏电极|
-|gas-sensitive element|气敏元件|
+|gas&#45;sensitive element|气敏元件|
 |gas sensor|气敏元件|
-|gas-solid chromatography|气固色谱法|
+|gas&#45;solid chromatography|气固色谱法|
 |gas thermometer|气体温度计|
 |gas transducer[sensor]|气体传感器|
 |gastrointestinal inner pressure transducer[sensor]|胃肠内压传感器|
 |gate|闸门|
-|gate-type flowmeter|闸门式流量计|
+|gate&#45;type flowmeter|闸门式流量计|
 |gate valve|闸阀|
 |gateway|网间连接器|
 |gauge block|量块|
@@ -1590,7 +1596,7 @@
 |gear reducer|减速器|
 |Geiger type vibrograph|盖格尔式测振仪|
 |gel chromatography|凝胶色谱法|
-|general- purpose(pressure)gauge|一般压力表|
+|general&#45; purpose(pressure)gauge|一般压力表|
 |general purpose strain gauge|常温应变计|
 |general system theory|一般系统理论|
 |generalization|通用化|
@@ -1618,11 +1624,11 @@
 |grade|级；等|
 |grade I standard dynamometer|一等标准测力计|
 |grade II standard load calibrating machine|二等标准测力机|
-|grade III-standard dynamometer|三等标准测力计|
-|graded-L operation|分级L操作|
-|Grader-L signals(GL)|分级L信号|
+|grade III&#45;standard dynamometer|三等标准测力计|
+|graded&#45;L operation|分级L操作|
+|Grader&#45;L signals(GL)|分级L信号|
 |gradient error(of bath)|（槽的）梯度误差|
-|gradient flux-gate magnetometer|磁通门磁力梯度仪|
+|gradient flux&#45;gate magnetometer|磁通门磁力梯度仪|
 |gradient superconducting magnetometer|超导磁力梯度仪|
 |graduated range|刻度范围|
 |graph search|图搜索|
@@ -1646,11 +1652,11 @@
 |gravity profile|重力剖面|
 |gravity survey|重力测量|
 |gravity vertical gradient survey|重力垂向梯度测量|
-|gravity-piston type corer|重力活塞式取样管|
+|gravity&#45;piston type corer|重力活塞式取样管|
 |graybody|灰体|
 |grayscale|灰度|
 |grid|控制极；栅极|
-|grid-controlled X-ray tube|栅控X射线管|
+|grid&#45;controlled X&#45;ray tube|栅控X射线管|
 |grid lines device|格线装置|
 |gridnephoscope|栅状测云器|
 |grip|夹头|
@@ -1663,25 +1669,26 @@
 |ground pulse electromagnetic instrument|地面脉冲电磁仪|
 |ground receiving station|地面接收站|
 |ground visibility|地面能见度|
-|ground X-ray fluorimeter|地面X射线荧光仪|
+|ground X&#45;ray fluorimeter|地面X射线荧光仪|
 |grounded junction|接地端|
 |grounded noise|接地噪声|
 |groupof an instrument for explosive atmosphere|防爆仪表类别|
 |guarded input|保护输入|
 |guidance system|导向系统|
 |gyro balancing machine|陀螺测斜仪|
-|gyro-theodolite|陀螺经纬仪|
-## 电子类专业英语词汇 H 
-|English|Chinese|
-|-|-| 
+|gyro&#45;theodolite|陀螺经纬仪|
+
+h2(#电子类专业英语词汇-h). 电子类专业英语词汇 H 
+
+|_. English|_. Chinese|
 |habitat|水下居住室[舱]|
 |hair hygrograph|毛发湿度计|
 |hair hygrometer|毛发湿度表|
 |half bridge measurement|半桥测量|
-|half-cell|半电池|
+|half&#45;cell|半电池|
 |half duplex transmission|半双工传输|
-|half-power point|半功率点|
-|half-wave potential|半波电位|
+|half&#45;power point|半功率点|
+|half&#45;wave potential|半波电位|
 |Hall effect|霍尔效应|
 |Hall effect displacement transducer|霍尔效应磁强计；霍尔效应磁力仪|
 |Hall effect tachometric transducer|霍尔效应式转速传感器|
@@ -1696,7 +1703,7 @@
 |handy digital tachometer|手持式数字转速表|
 |hanging mercury electrode|悬汞电极|
 |hard bearing balancing machine|硬支承平衡机|
-|"hard"X-rays|硬射线|
+|&quot;hard&quot;X&#45;rays|硬射线|
 |hardness|硬度|
 |hardness penetrator|硬度压头|
 |hardness tester|硬度计|
@@ -1716,23 +1723,23 @@
 |head space gas chromatography|顶空气相色谱法|
 |header byte|首标字节|
 |heart sound transducer[sensor]|心音传感器|
-|heat-capacity mapping mission(HCMM)热容量制图卫星||
+|heat&#45;capacity mapping mission(HCMM)热容量制图卫星||
 |heat conducting|导热|
-|(heat)conduction| （热）传导|
+|(heat)conduction|（热）传导|
 |(heat)convection|（热）对流|
 |heat efficiency|热效率|
 |heat flow meter|热流计|
-|heat-flux differential scanning calorimeter|热流型差示扫描量热仪|
-|heat-flux differential scanning calorimetry|热流型差示扫描量热法|
+|heat&#45;flux differential scanning calorimeter|热流型差示扫描量热仪|
+|heat&#45;flux differential scanning calorimetry|热流型差示扫描量热法|
 |heat flux transducer[sensor]|热流传感器|
 |heat of combustion|燃烧热|
-|(heat)radiation| （热）辐射|
-|heat-treated glass window|热处理玻璃观察窗|
+|(heat)radiation|（热）辐射|
+|heat&#45;treated glass window|热处理玻璃观察窗|
 |heat unit(HU)|热单位|
 |heat value|热值|
 |heated and/or cooled enclosed location|升温和[或]降温封闭场所|
-|heater characteristic of X-ray tube|X射线管灯丝特性|
-|heating by far infra-red radiation|远红外辐射加热|
+|heater characteristic of X&#45;ray tube|X射线管灯丝特性|
+|heating by far infra&#45;red radiation|远红外辐射加热|
 |heating curves|加热曲线|
 |heating curve determination|升温曲线测定|
 |heating curve determination apparatus|升温曲线测定仪|
@@ -1767,49 +1774,49 @@
 |high[elevated]temperature testing machine|高温试验机|
 |high elongation strain gauge|大应变应变计|
 |high energy varistor|高能电压敏电阻器|
-|high energy X-rays|高能X射线|
-|high-frequency dielectric splitter|高频介电分选仪|
-|high-frequency fatigue testing machine|高频疲劳试验机|
-|high-frequency titration|高频滴定|
-|high-frequency varistor|高频电压敏电阻器|
-|high-level language|高级语言|
+|high energy X&#45;rays|高能X射线|
+|high&#45;frequency dielectric splitter|高频介电分选仪|
+|high&#45;frequency fatigue testing machine|高频疲劳试验机|
+|high&#45;frequency titration|高频滴定|
+|high&#45;frequency varistor|高频电压敏电阻器|
+|high&#45;level language|高级语言|
 |high limiting control|上限控制|
-|high-low action|高低作用|
-|high-low signal selector|高低信号选择器|
-|high-low temperature chamber|温度交变试验箱|
-|high-performance liquid chromatograph|高效液相色谱仪|
-|high-performance scanning electron microscope|高性能扫描电子显微镜|
+|high&#45;low action|高低作用|
+|high&#45;low signal selector|高低信号选择器|
+|high&#45;low temperature chamber|温度交变试验箱|
+|high&#45;performance liquid chromatograph|高效液相色谱仪|
+|high&#45;performance scanning electron microscope|高性能扫描电子显微镜|
 |high polymer microphone|高聚物传声器|
-|high-pressure DTA unit|高压差式热分析仪|
-|high-recovery valve|高压力恢复阀|
-|high-resolution diffraction attachment|高分辨衍射附件|
-|high-resolution diffraction image|高分辨衍射象|
-|high-resolution electron microscope|高分辨电子显微镜|
-|high-resolution mass spectroscope|高分辨质谱仪器|
-|high-resolution NMR spectrometer|高分辨核磁共振波谱仪|
-|high-resolution NMR spectroscope|高分辨率核工业磁共振波谱仪|
-|high-resolution visible(HRV)image instrument|高分辨率图像仪|
-|high-speed balancing|高速平衡|
-|high-speed balancing installation|高速平衡设备|
-|high-speed liquid chromatography|高速液相色谱法|
-|high-speed simulation|快速仿真|
-|high-temperature device|高温装置|
-|high-temperature strain gauge|高温应变计|
-|high-temperature test|高温试验|
-|high-temperature test chamber|高温试验箱|
-|high-temperature testing machine|高温试验机|
-|high-temperature thermistor|高温处理|
+|high&#45;pressure DTA unit|高压差式热分析仪|
+|high&#45;recovery valve|高压力恢复阀|
+|high&#45;resolution diffraction attachment|高分辨衍射附件|
+|high&#45;resolution diffraction image|高分辨衍射象|
+|high&#45;resolution electron microscope|高分辨电子显微镜|
+|high&#45;resolution mass spectroscope|高分辨质谱仪器|
+|high&#45;resolution NMR spectrometer|高分辨核磁共振波谱仪|
+|high&#45;resolution NMR spectroscope|高分辨率核工业磁共振波谱仪|
+|high&#45;resolution visible(HRV)image instrument|高分辨率图像仪|
+|high&#45;speed balancing|高速平衡|
+|high&#45;speed balancing installation|高速平衡设备|
+|high&#45;speed liquid chromatography|高速液相色谱法|
+|high&#45;speed simulation|快速仿真|
+|high&#45;temperature device|高温装置|
+|high&#45;temperature strain gauge|高温应变计|
+|high&#45;temperature test|高温试验|
+|high&#45;temperature test chamber|高温试验箱|
+|high&#45;temperature testing machine|高温试验机|
+|high&#45;temperature thermistor|高温处理|
 |high tension loop|高压回路|
 |high vacuum|高真空|
-|high-value standard resistor|高阻标准电阻器|
-|high-voltage bridge|高压电桥|
-|high-voltage cable|高压电缆|
+|high&#45;value standard resistor|高阻标准电阻器|
+|high&#45;voltage bridge|高压电桥|
+|high&#45;voltage cable|高压电缆|
 |high voltage capacitor(of a capacitor voltage transformer)|电容器式电压互感器的高压电容器|
-|high-voltage electron microscope|高压电子显微镜|
-|high-voltage insulating tank|高压绝缘箱|
-|high-voltage source|高压电源|
-|high-voltage stability|高压稳定度|
-|high-voltage terminal|高压端|
+|high&#45;voltage electron microscope|高压电子显微镜|
+|high&#45;voltage insulating tank|高压绝缘箱|
+|high&#45;voltage source|高压电源|
+|high&#45;voltage stability|高压稳定度|
+|high&#45;voltage terminal|高压端|
 |high water|高潮|
 |higher actual measuring range value|实际测量范围上的限值|
 |higher harmonic resonance|高次谐波共振|
@@ -1827,8 +1834,8 @@
 |hoisting test|起吊试验|
 |holding action|保持作用|
 |holding current|吸持电流|
-|hollow-cathode atomizer|空心阴极原子化器|
-|hollow-cathode lamp|空心阴极灯|
+|hollow&#45;cathode atomizer|空心阴极原子化器|
+|hollow&#45;cathode lamp|空心阴极灯|
 |holographic grating|全息光栅|
 |holographic SDRS|全息地震仪|
 |homeostasis|内稳态|
@@ -1845,8 +1852,8 @@
 |host computer|主计算机|
 |hot wire anemometer|热线风速表|
 |hot wire flow transducer[sensor]|热线流量传感器|
-|hot-wire respiratory flow transducer[sensor]|热丝（式）呼吸流量传感器|
-|hot-wire turbulence meter|热线湍流计|
+|hot&#45;wire respiratory flow transducer[sensor]|热丝（式）呼吸流量传感器|
+|hot&#45;wire turbulence meter|热线湍流计|
 |housing|外壳|
 |housing limit temperature|外壳极限温度|
 |huge system|巨系统|
@@ -1864,212 +1871,214 @@
 |humidity range|湿度范围|
 |humidity transducer[sensor]|湿度传感器|
 |humidity uniformity|湿度均匀性|
-|humidity-dependent resistor|湿敏电阻器|
+|humidity&#45;dependent resistor|湿敏电阻器|
 |hunting|猎振|
 |hybrid model|混合模型|
 |hybrid simulation|混合仿真|
 |hydraulic actuator|液动执行机构|
-## 电子类专业英语词汇 I 
-|English|Chinese|
-|-|-| 
-|I/O channel|输入输出出通道；I/O通道 |
-|ice point|冰点 ideal gas temperature scale,理想气体温标 |
+
+h2(#电子类专业英语词汇-i). 电子类专业英语词汇 I 
+
+|_. English|_. Chinese|
+|I/O channel|输入输出出通道；I/O通道|
+|ice point|冰点 ideal gas temperature scale,理想气体温标|
 |ideal inherent equal percentage flow characteristic|理想固有等百分比注量特性|
-|identifiability|可辨识性；能辨识性 |
-|ignition wire|点火线 |
-|illuminance transducer[sensor]|照度传感器 |
-|illuminating aperture angle|照明孔径角 |
-|illuminating brightness|照明亮度 |
-|illuminating system|照明系统 |
-|illumination|照度 |
-|image electro-magnetic shift|象电位移 |
-|image plane|象面 |
-|image point|象点 |
-|image recognition|图象识别 |
-|image rotation|象旋转 |
-|image transdcer[sensor]|图象传感器 |
-|imaging system|成象系统 |
-|immersion depth|浸入深度 |
-|immersion error|浸入误差 |
-|immersion line(of liquid-in-glass thermometer)|（玻璃温度计的）浸没线 |
-|immersion testing|液浸法 |
-|immersion type probe|水浸探头 |
-|impact energy|冲击能量 |
-|impact hammer|冲击锤体 |
-|impact pendulnm|冲击摆锤 |
-|impact specimen support|冲击试校支架 |
-|impact test|冲击试验 |
-|impact testing machine|冲击试验机 |
-|impact toughness|冲击韧性 |
-|impact velocity of the pendulum|摆锤的冲击速度 |
-|impedance analysis|阻抗分析 |
-|impedance blood volume transducer[sensor]|阻抗式血容量传感器 |
-|impedance head|阻抗头 |
-|imedance plane diagram|阻抗平面图 |
-|impedance respiratory frequency transducer[sensor]|阻抗式呼吸频率传感器 |
-|impeller|旋浆 |
-|impregnated base strain gauge|浸胶基应变计 |
-|impulse distance meter|脉冲式测距仪 |
-|impulse function|冲激函数；脉冲函数 |
-|impulse precision sound level meter|脉冲精密声级计 |
-|impulse response|冲激响应；脉冲响应 |
-|impulsive sound|脉冲声 |
-|in-situ colour meter|现场水色计 |
-|in-situ extraction sampler|现场萃取采水器 |
-|im-situ salinometer|现场盐度计 |
-|in-situ seawater oxygenomter|海水溶解氧现场测定仪 |
-|inaccuracy|不精确度 |
-|inboard rotor|内重心转子 |
-|incline impact test|斜而冲击试验 |
-|ynclined-tube manometer|倾斜压力计 |
-|inclinometer|井斜仪 |
-|increase of area|断面增大率 |
-|increased safety electrical apparatus(Ex e)|增安型电气设备（Ex e) |
-|incremental control|增量控制 |
-|incremental motion control system|增量运动控制系统 |
-|incremental range|微调（增量）范围 |
-|incremental testing|增量测试 |
-|independent conforminty|独立一致性 |
-|independent linearity|独立线性度 |
-|index|指示器；指数；索引 |
-|index level|竖直度盘指标水准器 |
-|index(of an indicating device)|（指示机构的）指示器 |
-|index of asymmetry|非对称性指数 |
-|index register|变址寄存器 |
-|indicated electrode|指示电极 |
-|indeicated strain|指示应变 |
-|indicated value|指示值 |
-|indicating device|指示装置；指示机构 |
-|indicating instrument|指示仪器仪表 |
-|indicating(measuring)instrument|（测量仪器仪表）的示值 |
-|indication point|指示点 |
-|indication range|示值范围 |
-|indicative mark|指示标志 |
-|indicator|指示仪 |
-|indirect acting instrument|间接作用仪表 |
-|indirect ancting instrument|间接作用仪表 |
-|indirect acting recording instrument|间接作用记录仪 |
-|indirect(method of )measurement|间接测量（法） |
-|indirect resistance heaiting|间接电阻加热 |
-|indirectly controlled variable|间接被控变量 |
-|indirectly heated type thermistor|旁热式热敏感电阻器 |
-|individual line|专线 |
-|individual nominal characteristic|单个名义特性 |
-|induced current image|感生电流象 |
-|induced curent method|感应电流法 |
-|induced polarization logger|井中激发极化仪 |
-|induced pulse transient system|感应脉冲瞬变系统 |
-|inductance bow|电感箱 |
-|inductance pressure transducer|电感式压力传感器 |
-|inductance transducer|感应式传感器 |
-|induction instrument|感应系仪表 |
-|induction logger|感应测井仪 |
-|induction meter|感应系电度表 |
-|induction salinometer|感应式盐度计 |
-|induction voltage divider|感应分压器 |
-|inductive displacement measuring instrument|电感式位移测量仪 |
-|inductive displacement transducer|电感式位移传感器 |
-|inductive force transducer|电感式力传感器 |
-|inductive micromenter|电感测微计 |
-|inductive modeling method|归纳建模法 |
-|inductive tensionmeter|电感式张力计 |
-|inductive transducer[sensor]|电感式传感器 |
-|inductosyn displacment transducer|感应同步式位移传感器 |
-|industrial automation|工业自动化 |
-|industrial control|工业控制 |
-|industrial control system|工业控制系统 |
-|industrial data processing|工业数据处理 |
-|industrial process|工业过程 |
-|industrial robot|工业机器人 |
-|(industrial)total radiation pyrometer|辐射感温器 |
-|indelastic background|非弹性本底 |
-|inelastic scatter|非弹性散射过程 |
-|inert metal indicated electrode|惰性金属指示电极 |
-|inertia type pickup|惯性传感器 |
-|inertial motion|隋走量 |
-|inference model|推理模型 |
-|inference strategy|推理策略 |
-|inferential flowmeter|推导式流量计 |
-|influence characteristic|影响特性 |
-|influence coefficient method|影响系数法 |
-|influence coefficient(of an influence quantity)|（影响量的）影响系数 |
-|influence error|影响误差 |
-|influence of magnetic field|磁场影响 |
-|influence of ship-body|船体影响 |
-|influence of static pressure|静压影响 |
-|influence of vibration|振动影响 |
-|influence quantity|影响量 |
-|information acquistion|信息采集 |
-|information parameter of an electrical signal|电信号的信息参数 |
-|information pattern|信息模式 |
-|information structrue|信息结构 |
-|information system for process control|过程控制信息系统 |
-|infrared camera|红外照相机 |
-|infrared distance meter|红外测距仪 |
-|infrared gas analyzer|红外线气体分析器 |
-|infrared hygrometer|红外湿度表 |
-|infrared light transducer[sensor]|红外光传感器 |
-|infrared radiation|红外辐射；红外线；热辐射 |
-|infrared radiation detection apparatus|红外检测仪 |
-|infrared radiation thermometer|红外辐射温度计 |
-|infrared radiometer|红外辐射计 |
-|infrared radiometry|红外线探伤法 |
-|infrared remote sensing|红外遥感 |
-|infrared spectrometry|红外光谱法 |
-|infrared spectrophotometer|红外分光光度计 |
-|inherent diaphragm pressure range|固有膜片压力范围 |
-|inherent feedback|固有反馈 |
-|inherent filtration|固有滤过当量 |
-|inherent flow characteristic|固有流量特性 |
-|inherent instability|固有不稳定性 |
-|inherent weakness failure|固有弱质失效 |
-|inhibit|禁止 |
-|initial condition|初始条件 |
-|initial deviation|初始偏差 |
-|initial load|初负荷 |
-|initial phase angle|初相角 |
-|initial program loader(IPL)|初始程序的装入程序 |
-|initial pulse|始脉冲 |
-|initial state|初（始状）态 |
-|initial temperature|超始温度 |
-|initial unbalance|初始不平衡量 |
-|initialization|初始化 |
-|initialize|初始化 |
-|initiator|启动站 |
-|injection cross-section[station]|注入横截面[部位] |
-|ink jet printer|喷墨印刷机 |
-|inlet filter|（减压器的）过滤器 |
-|inlet system|进样系统 |
-|inner pacdage|内包装 |
-|in-phase voltage|同相电压 |
-|input and output with inolated common point|带有隔离公共点的输入和输出 |
-|input device|输入设备 |
-|input impedance|输入阻抗 |
-|input impedance of the magnetizing winding|激磁绕组输入阻抗 |
-|input impedance of the measuring winding|测量绕组输入阻抗 |
-|input matrix|输入矩阵 |
-|input/output operation|输入/输出操作 |
-|input/output port|输入/输出端口 |
-|input-output analysis|投入产出分析 |
-|input-output channel|输入输出通道 |
-|input-output device|输入输出设备 |
-|input-output model|投入产出稳定性 |
-|input-output table|投入产出表 |
-|input-output unit|输入输出设备 |
-|input prediction method|输入预估法 |
-|input quantity to frequency conversion type|输入量-频率转换型 |
-|input signal|输入信号 |
-|input terminal|输入端 |
-|input unit|输入设备 |
-|input variable|输入变量 |
-|input vector|输入向量；输入矢量 |
-|input with isolated common point|公共端隔离输入 |
-|inrush current|浪涌电流 |
-|insert length|插入长度 |
+|identifiability|可辨识性；能辨识性|
+|ignition wire|点火线|
+|illuminance transducer[sensor]|照度传感器|
+|illuminating aperture angle|照明孔径角|
+|illuminating brightness|照明亮度|
+|illuminating system|照明系统|
+|illumination|照度|
+|image electro&#45;magnetic shift|象电位移|
+|image plane|象面|
+|image point|象点|
+|image recognition|图象识别|
+|image rotation|象旋转|
+|image transdcer[sensor]|图象传感器|
+|imaging system|成象系统|
+|immersion depth|浸入深度|
+|immersion error|浸入误差|
+|immersion line(of liquid&#45;in&#45;glass thermometer)|（玻璃温度计的）浸没线|
+|immersion testing|液浸法|
+|immersion type probe|水浸探头|
+|impact energy|冲击能量|
+|impact hammer|冲击锤体|
+|impact pendulnm|冲击摆锤|
+|impact specimen support|冲击试校支架|
+|impact test|冲击试验|
+|impact testing machine|冲击试验机|
+|impact toughness|冲击韧性|
+|impact velocity of the pendulum|摆锤的冲击速度|
+|impedance analysis|阻抗分析|
+|impedance blood volume transducer[sensor]|阻抗式血容量传感器|
+|impedance head|阻抗头|
+|imedance plane diagram|阻抗平面图|
+|impedance respiratory frequency transducer[sensor]|阻抗式呼吸频率传感器|
+|impeller|旋浆|
+|impregnated base strain gauge|浸胶基应变计|
+|impulse distance meter|脉冲式测距仪|
+|impulse function|冲激函数；脉冲函数|
+|impulse precision sound level meter|脉冲精密声级计|
+|impulse response|冲激响应；脉冲响应|
+|impulsive sound|脉冲声|
+|in&#45;situ colour meter|现场水色计|
+|in&#45;situ extraction sampler|现场萃取采水器|
+|im&#45;situ salinometer|现场盐度计|
+|in&#45;situ seawater oxygenomter|海水溶解氧现场测定仪|
+|inaccuracy|不精确度|
+|inboard rotor|内重心转子|
+|incline impact test|斜而冲击试验|
+|ynclined&#45;tube manometer|倾斜压力计|
+|inclinometer|井斜仪|
+|increase of area|断面增大率|
+|increased safety electrical apparatus(Ex e)|增安型电气设备（Ex e)|
+|incremental control|增量控制|
+|incremental motion control system|增量运动控制系统|
+|incremental range|微调（增量）范围|
+|incremental testing|增量测试|
+|independent conforminty|独立一致性|
+|independent linearity|独立线性度|
+|index|指示器；指数；索引|
+|index level|竖直度盘指标水准器|
+|index(of an indicating device)|（指示机构的）指示器|
+|index of asymmetry|非对称性指数|
+|index register|变址寄存器|
+|indicated electrode|指示电极|
+|indeicated strain|指示应变|
+|indicated value|指示值|
+|indicating device|指示装置；指示机构|
+|indicating instrument|指示仪器仪表|
+|indicating(measuring)instrument|（测量仪器仪表）的示值|
+|indication point|指示点|
+|indication range|示值范围|
+|indicative mark|指示标志|
+|indicator|指示仪|
+|indirect acting instrument|间接作用仪表|
+|indirect ancting instrument|间接作用仪表|
+|indirect acting recording instrument|间接作用记录仪|
+|indirect(method of )measurement|间接测量（法）|
+|indirect resistance heaiting|间接电阻加热|
+|indirectly controlled variable|间接被控变量|
+|indirectly heated type thermistor|旁热式热敏感电阻器|
+|individual line|专线|
+|individual nominal characteristic|单个名义特性|
+|induced current image|感生电流象|
+|induced curent method|感应电流法|
+|induced polarization logger|井中激发极化仪|
+|induced pulse transient system|感应脉冲瞬变系统|
+|inductance bow|电感箱|
+|inductance pressure transducer|电感式压力传感器|
+|inductance transducer|感应式传感器|
+|induction instrument|感应系仪表|
+|induction logger|感应测井仪|
+|induction meter|感应系电度表|
+|induction salinometer|感应式盐度计|
+|induction voltage divider|感应分压器|
+|inductive displacement measuring instrument|电感式位移测量仪|
+|inductive displacement transducer|电感式位移传感器|
+|inductive force transducer|电感式力传感器|
+|inductive micromenter|电感测微计|
+|inductive modeling method|归纳建模法|
+|inductive tensionmeter|电感式张力计|
+|inductive transducer[sensor]|电感式传感器|
+|inductosyn displacment transducer|感应同步式位移传感器|
+|industrial automation|工业自动化|
+|industrial control|工业控制|
+|industrial control system|工业控制系统|
+|industrial data processing|工业数据处理|
+|industrial process|工业过程|
+|industrial robot|工业机器人|
+|(industrial)total radiation pyrometer|辐射感温器|
+|indelastic background|非弹性本底|
+|inelastic scatter|非弹性散射过程|
+|inert metal indicated electrode|惰性金属指示电极|
+|inertia type pickup|惯性传感器|
+|inertial motion|隋走量|
+|inference model|推理模型|
+|inference strategy|推理策略|
+|inferential flowmeter|推导式流量计|
+|influence characteristic|影响特性|
+|influence coefficient method|影响系数法|
+|influence coefficient(of an influence quantity)|（影响量的）影响系数|
+|influence error|影响误差|
+|influence of magnetic field|磁场影响|
+|influence of ship&#45;body|船体影响|
+|influence of static pressure|静压影响|
+|influence of vibration|振动影响|
+|influence quantity|影响量|
+|information acquistion|信息采集|
+|information parameter of an electrical signal|电信号的信息参数|
+|information pattern|信息模式|
+|information structrue|信息结构|
+|information system for process control|过程控制信息系统|
+|infrared camera|红外照相机|
+|infrared distance meter|红外测距仪|
+|infrared gas analyzer|红外线气体分析器|
+|infrared hygrometer|红外湿度表|
+|infrared light transducer[sensor]|红外光传感器|
+|infrared radiation|红外辐射；红外线；热辐射|
+|infrared radiation detection apparatus|红外检测仪|
+|infrared radiation thermometer|红外辐射温度计|
+|infrared radiometer|红外辐射计|
+|infrared radiometry|红外线探伤法|
+|infrared remote sensing|红外遥感|
+|infrared spectrometry|红外光谱法|
+|infrared spectrophotometer|红外分光光度计|
+|inherent diaphragm pressure range|固有膜片压力范围|
+|inherent feedback|固有反馈|
+|inherent filtration|固有滤过当量|
+|inherent flow characteristic|固有流量特性|
+|inherent instability|固有不稳定性|
+|inherent weakness failure|固有弱质失效|
+|inhibit|禁止|
+|initial condition|初始条件|
+|initial deviation|初始偏差|
+|initial load|初负荷|
+|initial phase angle|初相角|
+|initial program loader(IPL)|初始程序的装入程序|
+|initial pulse|始脉冲|
+|initial state|初（始状）态|
+|initial temperature|超始温度|
+|initial unbalance|初始不平衡量|
+|initialization|初始化|
+|initialize|初始化|
+|initiator|启动站|
+|injection cross&#45;section[station]|注入横截面[部位]|
+|ink jet printer|喷墨印刷机|
+|inlet filter|（减压器的）过滤器|
+|inlet system|进样系统|
+|inner pacdage|内包装|
+|in&#45;phase voltage|同相电压|
+|input and output with inolated common point|带有隔离公共点的输入和输出|
+|input device|输入设备|
+|input impedance|输入阻抗|
+|input impedance of the magnetizing winding|激磁绕组输入阻抗|
+|input impedance of the measuring winding|测量绕组输入阻抗|
+|input matrix|输入矩阵|
+|input/output operation|输入/输出操作|
+|input/output port|输入/输出端口|
+|input&#45;output analysis|投入产出分析|
+|input&#45;output channel|输入输出通道|
+|input&#45;output device|输入输出设备|
+|input&#45;output model|投入产出稳定性|
+|input&#45;output table|投入产出表|
+|input&#45;output unit|输入输出设备|
+|input prediction method|输入预估法|
+|input quantity to frequency conversion type|输入量&#45;频率转换型|
+|input signal|输入信号|
+|input terminal|输入端|
+|input unit|输入设备|
+|input variable|输入变量|
+|input vector|输入向量；输入矢量|
+|input with isolated common point|公共端隔离输入|
+|inrush current|浪涌电流|
+|insert length|插入长度|
 |inside coil|内插线圈|
-## 电子类专业英语词汇 J 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-j). 电子类专业英语词汇 J 
+
+|_. English|_. Chinese|
 |jaw|钳口|
 |jerk transducer(sensor)|加速度传感器|
 |jet orifice separator|喷嘴分离器|
@@ -2083,9 +2092,10 @@
 |junction class (of thermocouple)|（热电偶的）端的类型|
 |junction style(of thermocouple)|（热电偶的）端的形式|
 |junction type zinc oxide varistor|结型氧化锌电压敏电阻器|
-## 电子类专业英语词汇 K 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-k). 电子类专业英语词汇 K 
+
+|_. English|_. Chinese|
 |Kaiser effect|凯撒效应|
 |karma foil|卡玛箔|
 |Kelvin|开尔文|
@@ -2095,13 +2105,13 @@
 |key in|键盘输入|
 |keyboard|键盘|
 |keyboard processor|键盘处理器|
-|keystone-type distortion|梯形畸变|
+|keystone&#45;type distortion|梯形畸变|
 |kinematic viscosity|运动粘度|
 |kinetic energy coefficient|动能系数|
 |knee point voltage|拐点电压|
-|knife-edge contact width|刀子接触宽度|
-|knife-edge curvature radius|刀子曲率半径|
-|knife-edge pointer|刀形指针|
+|knife&#45;edge contact width|刀子接触宽度|
+|knife&#45;edge curvature radius|刀子曲率半径|
+|knife&#45;edge pointer|刀形指针|
 |knives|刀子|
 |knives linear|刀子联线|
 |Knoop hardness number|努普硬度值|
@@ -2116,9 +2126,10 @@
 |knowledge representation|知识表达|
 |Knudsen burette|克努森滴定管|
 |Knudsen pipette|克努森移液管|
-## 电子类专业英语词汇  L
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇--l). 电子类专业英语词汇 L
+
+|_. English|_. Chinese|
 |L grader|L分级器|
 |LaB6 cathode|六硼化镧阴极|
 |label|标号|
@@ -2129,7 +2140,7 @@
 |lag compensation|滞后补偿|
 |lag module|滞后组件|
 |lag network|滞后网络|
-|lag-lead compensation|滞后超前补偿|
+|lag&#45;lead compensation|滞后超前补偿|
 |Lagrangian method|拉格朗日法|
 |Laman spectrophotometer|拉曼分光光度计|
 |laminar low|层流|
@@ -2137,7 +2148,7 @@
 |laminated magnet|积层磁铁|
 |landing impact testing machine|落锤式冲击试验机|
 |Laplace transform|拉普拉斯变换|
-|Laplace-Gauss distribution|拉普拉斯—高斯分布|
+|Laplace&#45;Gauss distribution|拉普拉斯 -- 高斯分布|
 |large scale system|大系统|
 |large scale system cybernetics|大系统控制论|
 |large volume sampler|大容量采水器|
@@ -2148,7 +2159,7 @@
 |laser beam ionization|激光电离|
 |laser ceilometer|激光测云仪|
 |laser distance meter|激光测距仪|
-|laser ellipse-ness measuring instrument|激光椭圆度测量仪|
+|laser ellipse&#45;ness measuring instrument|激光椭圆度测量仪|
 |laser fluorescence detector|激光荧光探测仪|
 |laser geodynamic satellite（LAGEDS)|激光测地卫星|
 |laser gravimeter|激光重力仪|
@@ -2186,8 +2197,8 @@
 |leakage magnetic field inspection|漏磁探伤法|
 |leakage magnetic flow detector|漏磁探伤仪|
 |leakage resistance|漏电阻|
-|least-squares line|最小二乘直线|
-|least-squares linearity|最小二乘线性度|
+|least&#45;squares line|最小二乘直线|
+|least&#45;squares linearity|最小二乘线性度|
 |length|长度 length control device,定长装置|
 |length of a scale division|标度分格间距；分格（度）长度|
 |lengthy bellows|长波纹管|
@@ -2195,15 +2206,15 @@
 |level|水准仪；水准器；水准泡；级；电平；物位|
 |level recorder|电平记录仪|
 |level transducer(sensor)|物位传感器|
-|level-braked motor|杠杆式制动电动机|
-|lever-type vibrograph|杠杆式测振仪|
+|level&#45;braked motor|杠杆式制动电动机|
+|lever&#45;type vibrograph|杠杆式测振仪|
 |library|程序库|
 |library searching|谱库检索|
 |life|寿命|
-|life of X-ray tube|X射线管寿命试验|
+|life of X&#45;ray tube|X射线管寿命试验|
 |lift of hydrofoil|水翼升力|
-|lift-drag of towed vehicle|拖曳体升阻比|
-|lift-off effect|提高效应|
+|lift&#45;drag of towed vehicle|拖曳体升阻比|
+|lift&#45;off effect|提高效应|
 |ligand chromatography|配位体色谱法|
 |light button|光按钮|
 |light digital logging instrument|轻便数字测井仪|
@@ -2229,8 +2240,8 @@
 |limits of error|误差（极）限|
 |limits of operating error|工作误差根限|
 |line|线路|
-|line-at-time printer|行式印刷机[打印机]； 一次一行印刷机|
-|line-by-line scanning|面扫描|
+|line&#45;at&#45;time printer|行式印刷机[打印机]； 一次一行印刷机|
+|line&#45;by&#45;line scanning|面扫描|
 |line coupler|线路耦合器|
 |line focus|线焦点|
 |line frame|线路帧|
@@ -2267,8 +2278,8 @@
 |linear system simulation|线性系统仿真|
 |linear thermistor|线性热敏电阻器|
 |linear thermodilatometry|线膨胀法|
-|linear time-invariant control system|线性定常控制系统|
-|linear time-varying control system|线性时变控制系统|
+|linear time&#45;invariant control system|线性定常控制系统|
+|linear time&#45;varying control system|线性时变控制系统|
 |linear velocity|线速度|
 |linear velocity transducer[sensor]|线速度传感器|
 |linear viscous damping|线性粘性阻尼|
@@ -2285,13 +2296,13 @@
 |link resistance|跨线电阻|
 |linkage|键接|
 |linkage editor|连接编辑程序|
-|linked- scanning|联动扫描|
+|linked&#45; scanning|联动扫描|
 |liquid chromatograph|液相色谱仪|
-|liquid chromatograph-mass spectrometer(LC-MS)|液相色谱—质谱联用仪|
-|liquid chromatograph-mass spectrometer interface; LC-MS interface|液相色谱—质谱联用仪接口|
+|liquid chromatograph&#45;mass spectrometer(LC&#45;MS)|液相色谱 -- 质谱联用仪|
+|liquid chromatograph&#45;mass spectrometer interface; LC&#45;MS interface|液相色谱 -- 质谱联用仪接口|
 |liquid chromatography|液相色谱法|
-|liquid chromatography-mass spectrometry(LC-MS)|液相色谱—质谱法|
-|liquid column(of liquid-in-glass thermometer)|（玻璃温度的）液柱|
+|liquid chromatography&#45;mass spectrometry(LC&#45;MS)|液相色谱 -- 质谱法|
+|liquid column(of liquid&#45;in&#45;glass thermometer)|（玻璃温度的）液柱|
 |liquid column manometer|液柱压力计|
 |liquid crystal thermometer|液晶温度计|
 |liquid densitometer|液体密度计|
@@ -2299,14 +2310,14 @@
 |liquid displacement system|液体置换系统|
 |liquid displacement displacement technique|液体置换法|
 |liquid filled case|充液压力表|
-|liquid-in-glass thermoneter|玻璃温度计|
+|liquid&#45;in&#45;glass thermoneter|玻璃温度计|
 |liquid junction potential|液接电位|
-|liquid-liquid chromatography|液液色谱法|
+|liquid&#45;liquid chromatography|液液色谱法|
 |liquid phase loading|液相载荷量|
 |liquid pressure recovery factor|液体压力恢复系数|
 |liquid refraction meter|标尺折光仪|
 |liquid sealed drum gas flowmeter|液封转筒式气体流量计|
-|liquid-solid chromatography|液固色谱法|
+|liquid&#45;solid chromatography|液固色谱法|
 |liquid surface acoustical holography|液面声全息|
 |liquid thermometer|液体温度表|
 |liquid thermostatic bath|液体恒温槽|
@@ -2314,7 +2325,7 @@
 |list|表|
 |list processing|表处理|
 |listener|收听站|
-|lithium chloride humidity-dependent resistor|氯化锂显敏电阻器|
+|lithium chloride humidity&#45;dependent resistor|氯化锂显敏电阻器|
 |live time|活时间|
 |load|负荷|
 |load amplitude|负荷幅|
@@ -2326,10 +2337,11 @@
 |local asymptotic stability|局部渐近稳定性|
 |local automation|局部自动化|
 |local controller|局部控制者|
-## 电子类专业英语词汇 M
-|English|Chinese|
-|-|-| 
-|MA-scope|MA型显示|
+
+h2(#电子类专业英语词汇-m). 电子类专业英语词汇 M
+
+|_. English|_. Chinese|
+|MA&#45;scope|MA型显示|
 |Mach number|马赫数|
 |machine code|机器代码|
 |machine intelligence|机器智能|
@@ -2337,9 +2349,9 @@
 |machine type rock ore densimeter|机械式岩矿密度仪|
 |macro analysis|常量分析|
 |macro instruction|宏指令|
-|macro-economic model|宏观经济模型|
-|macro-economic system|宏观经济系统|
-|Macro-assembly language|宏汇编语言|
+|macro&#45;economic model|宏观经济模型|
+|macro&#45;economic system|宏观经济系统|
+|Macro&#45;assembly language|宏汇编语言|
 |magnet|磁铁|
 |magnet assembly|磁体|
 |magnet dynamic instrument|磁式动态仪器|
@@ -2400,19 +2412,19 @@
 |magnetoelectric phase difference torque measuring instrument|磁电相位 差式转矩测量仪|
 |magnetoelectric phase difference torque transducer|磁电相位差林转矩传感器|
 |magnetoelectric tachometer|磁电式转速表|
-|magnetoelectric tacho-metric transducer|磁电式转速传感器|
+|magnetoelectric tacho&#45;metric transducer|磁电式转速传感器|
 |magnetoelectric velocity measuring instrument|磁电工速度测量仪 magnetoelectric velocity transducer,磁电式速度传感器|
 |magnetometer|磁强计；磁力仪|
-|magneto-optical effect magnetometer|磁阻磁强计|
+|magneto&#45;optical effect magnetometer|磁阻磁强计|
 |magnetoresistive magentomenter|磁致伸缩磁力仪|
 |magnetostriction testing meter|磁致伸缩测试仪|
 |magnetostrictive transducer|磁致伸缩振动器|
 |magnetreater|磁处理机|
 |megestrol|磁放大器|
 |magnification|放大倍率|
-|magnitude-frequency characteristics|幅频特性|
+|magnitude&#45;frequency characteristics|幅频特性|
 |magnitude margin|幅值裕度；幅值裕量|
-|magnitude-phase characteristics|幅相特性|
+|magnitude&#45;phase characteristics|幅相特性|
 |main axle of penetrator|压头主轴|
 |main storage|主存储器|
 |main valve|主阀|
@@ -2428,12 +2440,12 @@
 |Manchester encoding|曼彻斯特编码|
 |mandatory standard|强制性标准|
 |manipulated variable|操纵变量|
-|man-machine communication|人机通信|
-|man-machine control|人机控制|
-|man-machine coordination|人机协调|
-|man-machine interaction|人机交互|
-|man-machine interface|人机界面|
-|man-machine system|人机系统|
+|man&#45;machine communication|人机通信|
+|man&#45;machine control|人机控制|
+|man&#45;machine coordination|人机协调|
+|man&#45;machine interaction|人机交互|
+|man&#45;machine interface|人机界面|
+|man&#45;machine system|人机系统|
 |manned submersible|载人潜水器|
 |manometer|压力计|
 |manual control|手动控制|
@@ -2447,7 +2459,7 @@
 |mapping|页面寻址；面分布图|
 |marine barometer|船用气压表|
 |marine digital seismic apparatus|海洋数字地震仪|
-|marine flux-gate magnetometer|海洋地球物理勘探|
+|marine flux&#45;gate magnetometer|海洋地球物理勘探|
 |marine gravimeter|海洋重力仪|
 |marine gravimetric survey|海洋重力测量|
 |marine instrument|船用仪器仪表|
@@ -2457,7 +2469,7 @@
 |marine proton precession magnetometer|海洋质子磁力仪|
 |marine seismic prospecting|海洋地震勘探|
 |marine seismic streamer|海洋地夺电缆；拖缆；漂浮电缆|
-|marine vibrating-string gravimeter|海洋振弦重力仪|
+|marine vibrating&#45;string gravimeter|海洋振弦重力仪|
 |mark|标志|
 |mark of conformity|合格标志|
 |marking|标志|
@@ -2485,14 +2497,14 @@
 |mass spectrometer|质谱计|
 |mass spectrometric analysis|质谱法|
 |mass spectrometry(MS)|质谱学；质谱法|
-|mass spectrometry-mass spectrometry(MS-MS)|质谱-质谱法|
+|mass spectrometry&#45;mass spectrometry(MS&#45;MS)|质谱&#45;质谱法|
 |mass spectroscope|质谱仪器|
 |mass spectroscopy|质谱学|
 |mass spectrum|质谱|
-|mass-spring system|质量弹簧系统|
+|mass&#45;spring system|质量弹簧系统|
 |mass stability|质量稳定性|
 |mass storage|大容量存储器；海量存储器|
-|mass-to-charge ratio|质荷比|
+|mass&#45;to&#45;charge ratio|质荷比|
 |master file|主文卷|
 |master/slave discrimination|主从鉴别；主副鉴别|
 |master station|主站|
@@ -2506,7 +2518,7 @@
 |matrix correction|基本修正|
 |matrix effect|基体效应|
 |matrix printer|点阵印刷机；点阵打印机|
-|Mattauch-Herzog geometry(mass spectrograph)|马-赫型双聚焦质谱法|
+|Mattauch&#45;Herzog geometry(mass spectrograph)|马&#45;赫型双聚焦质谱法|
 |max allowable continuous working current|最大允许连续工作电流|
 |max deflection of linearity|最大线性偏转|
 |maximum acceleration|最大加速度|
@@ -2525,22 +2537,23 @@
 |maximum operating water depth|最大工作（水）深度|
 |maximum output inductance|最大输出电感|
 |maximum output resistance|最大输出电阻|
-## 电子类专业英语词汇 N 
-|English|Chinese|
-|-|-| 
-|n-exponent|n-指数|
+
+h2(#电子类专业英语词汇-n). 电子类专业英语词汇 N 
+
+|_. English|_. Chinese|
+|n&#45;exponent|n&#45;指数|
 |N.T.C.thermistor|负温度系数热敏电阻器|
 |Nansen bottle|南森采水器|
-|Nansen opening-and-closing net|南森开团式网|
-|narrow-band filter|窄带滤波器|
-|narrow-band random vibration|窄带随机振动|
-|narrow-band spectrum|窄波段|
+|Nansen opening&#45;and&#45;closing net|南森开团式网|
+|narrow&#45;band filter|窄带滤波器|
+|narrow&#45;band random vibration|窄带随机振动|
+|narrow&#45;band spectrum|窄波段|
 |national satellite|国土卫星|
 |national standard|国家标准|
 |natural convection|自然对流|
-|natural electric-field method instrument|自然电场法仪器|
+|natural electric&#45;field method instrument|自然电场法仪器|
 |natural environment|自然环境|
-|natural field electro-detector|天然场电测仪|
+|natural field electro&#45;detector|天然场电测仪|
 |natural frequency|固有频率|
 |natural frequency measurement|固有频率的测量|
 |natural frequency of rotor/bearing system|转子支承系统固有频率|
@@ -2548,9 +2561,9 @@
 |natural inherent frequency|自然固有频率|
 |natural mode of vibration|固有振型|
 |near field|近场|
-|near-infrared range(NIR)remote sensing|近红外遥感|
-|near-optimality|近优性|
-|nearest-neighbor|最近邻|
+|near&#45;infrared range(NIR)remote sensing|近红外遥感|
+|near&#45;optimality|近优性|
+|nearest&#45;neighbor|最近邻|
 |nebulizer|雾化器|
 |negative feedback|负反馈|
 |negative knives linear|负刀联线|
@@ -2584,22 +2597,22 @@
 |neutron logging instrument|中子测井仪|
 |neutron fraiograghy|中子射线照相术|
 |neutron spectrometer|中子能谱仪|
-|neutron-gamma radiometer|中子伽玛辐射仪|
-|Nickel-Chromium/CopperNickel thermocouple|镍铬-铜镍热电偶|
-|Nickel-Chromium/NickelAluminium[Silicom] thermocouple|镍铬-镍铝[硅] 热电偶|
-|Nickel-Chromium-Silicon/Nickel-Silicon thermocouple|镍铬硅镍硅热电偶|
-|Nier-Johnson geometry mass spectrometer|尼尔-约翰逊型 双聚焦质谱计|
+|neutron&#45;gamma radiometer|中子伽玛辐射仪|
+|Nickel&#45;Chromium/CopperNickel thermocouple|镍铬&#45;铜镍热电偶|
+|Nickel&#45;Chromium/NickelAluminium[Silicom] thermocouple|镍铬&#45;镍铝[硅] 热电偶|
+|Nickel&#45;Chromium&#45;Silicon/Nickel&#45;Silicon thermocouple|镍铬硅镍硅热电偶|
+|Nier&#45;Johnson geometry mass spectrometer|尼尔&#45;约翰逊型 双聚焦质谱计|
 |NIM bin NIM|机箱|
 |Niskin sterile water sampler|尼斯金无菌采水器|
 |nitrile rubber(Buna N)|丁晴橡胶|
 |nitrogen dioxide transfer furnace|二氧化氮转化炉|
-|nitrogen-oxide analyzer|氮氧化物分析仪|
+|nitrogen&#45;oxide analyzer|氮氧化物分析仪|
 |NMR absorption band|核磁共振吸收带|
 |NMR absorption line|核磁共振吸收线|
 |NMR equipment|核磁共振仪|
 |NMR line width|核磁共振线宽|
-|no-load|空负荷|
-|no-load test|空载试验|
+|no&#45;load|空负荷|
+|no&#45;load test|空载试验|
 |node|节点|
 |noetic science|思维科学|
 |noise|噪声|
@@ -2611,7 +2624,7 @@
 |noise level analyzer|噪声级分析仪|
 |noise prediction|噪声预估|
 |noise room|噪声室|
-|noise-suppressing varistor|消噪电压敏电阻器|
+|noise&#45;suppressing varistor|消噪电压敏电阻器|
 |noise thermometer|噪声温度计|
 |noise transducer [sensor]|噪声传感器|
 |nominal cartridge diameter of microphone|传声器极头公称直径|
@@ -2628,37 +2641,37 @@
 |nominal travel|标称行程|
 |nominal value|标称值|
 |nominal voltage ratio|标称电压比|
-|non-conformity|不合格|
-|non-contact thermometry|非接触测温法|
-|non-crystalline electrode|非晶体电极|
-|non-delimiter byte|非定界字节|
-|non-destructive inspection|无损探伤|
-|non-destructive inspection machine|无损探伤机|
-|non-dimensional [relative] velocity|无量纲[相对]速度|
-|non-dispersive infra-red gas analyzer;NDIR gas analyzer|非色散红外线气 体分析器；NDIR气体分析器|
-|non-engineering system simulation|非工程系统仿真|
-|non-enveloped thermistor|非密封型热敏电阻器|
-|non-function type optic-fibre temperature transducer|非功能型光纤温度传感器|
-|non-interacting control|无相关控制|
-|non-interchangeable accessory|不可互换附件|
-|non-isolated analogue input|非隔离的模拟输入|
-|non-line conversion|非线性转换|
-|non-linear damping|非线性阻尼|
-|non-magnetic strain gauge|抗磁性应变计|
-|non-Newtonian fluid|非牛顿流体|
-|non-radioactive electron capture detector|无放射源电子捕获检测器|
-|non-reference line imaginary real amplitude receiver|无参考线虚分量仪|
-|non-relevant failure|非关联失效|
-|non-return magnetometer|无定向磁力仪|
-|non-rotational imaging|无旋转成象|
-|non-selective radiator|非选择辐射体|
-|non-split stream injector|无分流进样器|
-|non-uniformity of chart [paper] speed|纸速不均匀性|
-|non-uniqueness|非唯一性|
+|non&#45;conformity|不合格|
+|non&#45;contact thermometry|非接触测温法|
+|non&#45;crystalline electrode|非晶体电极|
+|non&#45;delimiter byte|非定界字节|
+|non&#45;destructive inspection|无损探伤|
+|non&#45;destructive inspection machine|无损探伤机|
+|non&#45;dimensional [relative] velocity|无量纲[相对]速度|
+|non&#45;dispersive infra&#45;red gas analyzer;NDIR gas analyzer|非色散红外线气 体分析器；NDIR气体分析器|
+|non&#45;engineering system simulation|非工程系统仿真|
+|non&#45;enveloped thermistor|非密封型热敏电阻器|
+|non&#45;function type optic&#45;fibre temperature transducer|非功能型光纤温度传感器|
+|non&#45;interacting control|无相关控制|
+|non&#45;interchangeable accessory|不可互换附件|
+|non&#45;isolated analogue input|非隔离的模拟输入|
+|non&#45;line conversion|非线性转换|
+|non&#45;linear damping|非线性阻尼|
+|non&#45;magnetic strain gauge|抗磁性应变计|
+|non&#45;Newtonian fluid|非牛顿流体|
+|non&#45;radioactive electron capture detector|无放射源电子捕获检测器|
+|non&#45;reference line imaginary real amplitude receiver|无参考线虚分量仪|
+|non&#45;relevant failure|非关联失效|
+|non&#45;return magnetometer|无定向磁力仪|
+|non&#45;rotational imaging|无旋转成象|
+|non&#45;selective radiator|非选择辐射体|
+|non&#45;split stream injector|无分流进样器|
+|non&#45;uniformity of chart [paper] speed|纸速不均匀性|
+|non&#45;uniqueness|非唯一性|
 |noncapacitive a.c.arc|非电容性交流电弧|
 |nondeterministic control system|非确定性控制系统|
 |nondeterministic model|非确定性模型|
-|nondiffraction X-ray spectrometer|非衍射X射线光谱仪|
+|nondiffraction X&#45;ray spectrometer|非衍射X射线光谱仪|
 |nonequilibrium state|非平衡态|
 |nonequilibrium system|非均衡系统|
 |nonlinear characteristics|非线性特性|
@@ -2674,7 +2687,7 @@
 |nonlinear viscous damping|非线性粘性阻尼|
 |nonlinearity|非线性|
 |nonmetallic material testing machine|非金属材料试验机|
-|nonreturn-to-zero (NRZ)|不归零制|
+|nonreturn&#45;to&#45;zero (NRZ)|不归零制|
 |normal barometer|标准气压表|
 |normal beam technique|垂直法|
 |normal beam testing|垂直法|
@@ -2683,7 +2696,7 @@
 |normal flow rate|正常流量|
 |normal modes|正态振型|
 |normal operating conditions|正常工作条件|
-|normal-phase liquid chromatography|正相液相色谱法|
+|normal&#45;phase liquid chromatography|正相液相色谱法|
 |normal probe|直探头|
 |normal station|普通站|
 |normal stress|正应力|
@@ -2699,8 +2712,8 @@
 |normally open solenoid valve|常开式电磁阀|
 |notch filter|节点滤波器|
 |nozzle|喷嘴|
-|n-th nodal unbalance|第n阶振型不平衡谐量|
-|N-type oxide gas sensor|N型氧化物气敏元件|
+|n&#45;th nodal unbalance|第n阶振型不平衡谐量|
+|N&#45;type oxide gas sensor|N型氧化物气敏元件|
 |nuclear electric quadrupole moment resonance spectroscopy|核四极共振 谱法|
 |Nuclear Instrument Module (NIM)|核仪器模块|
 |nuclear magnetic double resonance|核磁双共振（法）|
@@ -2724,9 +2737,10 @@
 |nutating disc flowmeter|（章动）圆盘流量计|
 |nutating flowmeter|章动流量计|
 |nutrients|营养盐|
-## 电子类专业英语词汇 O 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-o). 电子类专业英语词汇 O 
+
+|_. English|_. Chinese|
 |object language|目标语言|
 |object plane|物面|
 |object program|目标程序|
@@ -2747,50 +2761,50 @@
 |oceanographic survey|海洋调查|
 |octave(bandwidth)filter|倍频程（宽带）滤波器|
 |octave filter set|倍频程滤波器组|
-|odd-even check|奇偶校验|
-|off-axis response|离轴响应|
+|odd&#45;even check|奇偶校验|
+|off&#45;axis response|离轴响应|
 |offline|离线|
-|off-line processing|离线处理；脱机处理|
-|off-line system simulation|离线系统仿真|
+|off&#45;line processing|离线处理；脱机处理|
+|off&#45;line system simulation|离线系统仿真|
 |office automation (OA)|办公自动化|
 |office automation system (OAS)|办公自动化系统|
 |office information system (OIS)|办公信息系统|
 |officially recognized standard|官方认可标准|
 |offset|静差|
 |offset coefficient|静差系数|
-|oil-filled enclosure (Ex o)|充油外壳（Ex o）|
-|oil-water meter|原油水分仪|
+|oil&#45;filled enclosure (Ex o)|充油外壳（Ex o）|
+|oil&#45;water meter|原油水分仪|
 |omegatron mass spectrometer|回旋质谱计|
 |omnidirectional microphone|全向传声器|
-|on-cold column injector|冷柱头进样器|
-|one-dimensional location|线定位； 一维空间定位|
+|on&#45;cold column injector|冷柱头进样器|
+|one&#45;dimensional location|线定位； 一维空间定位|
 |online|在线|
-|on-line assistance|在线帮助|
-|on-line measurement and frequency spectrum analysis|在线测量频谱分析|
-|on-line process gas chromatograph|在线过程气相色谱仪|
-|on-line processing|在线处理；联机处理|
-|on-line real-time processing|在线实时处理|
-|on-line real-time system|联机实时系统|
-|on-line system simulation|在线系统仿真|
-|on-off action|通断作用|
-|on-off controller|通断控制器|
-|one-man atmospheric submersible|常人常压潜水器|
-|one-third octave filter|1/3 倍频程滤波器|
-|one-turm time of output shaft|输出轴每转时间|
-|one-way communication|单向通信|
-|open-circuit intermediate voltage|开路中间电压|
+|on&#45;line assistance|在线帮助|
+|on&#45;line measurement and frequency spectrum analysis|在线测量频谱分析|
+|on&#45;line process gas chromatograph|在线过程气相色谱仪|
+|on&#45;line processing|在线处理；联机处理|
+|on&#45;line real&#45;time processing|在线实时处理|
+|on&#45;line real&#45;time system|联机实时系统|
+|on&#45;line system simulation|在线系统仿真|
+|on&#45;off action|通断作用|
+|on&#45;off controller|通断控制器|
+|one&#45;man atmospheric submersible|常人常压潜水器|
+|one&#45;third octave filter|1/3 倍频程滤波器|
+|one&#45;turm time of output shaft|输出轴每转时间|
+|one&#45;way communication|单向通信|
+|open&#45;circuit intermediate voltage|开路中间电压|
 |open front case with pressure relief|带泄压装置的前开式外壳|
 |open front case without pressure relief|无泄压装置的前开式外壳|
 |(open hole) caliper|井径仪|
-|open-jet wind tunnel|开口式风洞|
+|open&#45;jet wind tunnel|开口式风洞|
 |open loop|开环|
 |open loop control|开环控制|
 |open loop control system|开环控制系统|
 |open loop electronic balance|开环式电子天平|
-|open-loop frequency response|开环频率响应|
-|open-loop gain|开环增益|
-|open-loop gain characteristic|开环增益特性|
-|open-loop pole|开环极点|
+|open&#45;loop frequency response|开环频率响应|
+|open&#45;loop gain|开环增益|
+|open&#45;loop gain characteristic|开环增益特性|
+|open&#45;loop pole|开环极点|
 |open loop process control|开环过程控制|
 |open loop remote control system|开环遥测控制系统|
 |open loop stabilization|开环稳定|
@@ -2824,8 +2838,8 @@
 |optic fiber displacement meter|光纤式位移计|
 |optic fiber position measuring instrument|光纤式位置测量仪|
 |optic fiber pressure transducer|光纤压力传感器|
-|optic fiber tacho-meter|光纤式转速表|
-|optic fiber tacho-metric transducer|光纤式转速传感器|
+|optic fiber tacho&#45;meter|光纤式转速表|
+|optic fiber tacho&#45;metric transducer|光纤式转速传感器|
 |optical arm length|光臂长度|
 |optical Doppler effect|光的多普勒效应|
 |optical fiber|光导纤维|
@@ -2866,11 +2880,11 @@
 |orientation control|定向控制|
 |orifice|节流孔|
 |orifice plate|孔板|
-|orifice-and-plug flowmeter|锥塞式流量计|
+|orifice&#45;and&#45;plug flowmeter|锥塞式流量计|
 |original system|原系统|
 |originator|源发站|
 |orthogonal distortion|正交畸变|
-|ortho-projector|正射投影仪|
+|ortho&#45;projector|正射投影仪|
 |oscillating period|振荡周期|
 |oscillator|振荡器|
 |oscillograph|录（示）波器|
@@ -2896,8 +2910,8 @@
 |output shaft rotation range|输出轴转角范围|
 |output shaft torque|输出轴转矩|
 |output signal|输出信号|
-|output signal "one" level|输出信号“1”电平|
-|output signal "zero" level|输出信号“0”电平|
+|output signal &quot;one&quot; level|输出信号“1”电平|
+|output signal &quot;zero&quot; level|输出信号“0”电平|
 |output state|输出状态|
 |output stem travel clearance|输出杆间隙位移|
 |output system|输出系统|
@@ -2907,8 +2921,8 @@
 |oval gear flowmeter|椭圆齿轮流量计|
 |oval wheel flowmeter|椭圆齿轮流量计|
 |oven temperature|箱温|
-|over-current protection|过电流保护|
-|over-voltage protection|过电压保护|
+|over&#45;current protection|过电流保护|
+|over&#45;voltage protection|过电压保护|
 |overall design|总体设计|
 |overdampin|非周期阻尼；过阻尼|
 |overflow|溢出|
@@ -2917,7 +2931,7 @@
 |overlapping event|交迭事件|
 |overload|过载；超负荷|
 |overload flow rate|过载流量|
-|over-load meter|过载仪|
+|over&#45;load meter|过载仪|
 |overpressure characteristic|超压特性|
 |overpressure failure|超压破裂|
 |over range|过范围|
@@ -2933,21 +2947,22 @@
 |ozone analyzer|臭氧分析仪|
 |ozone sonde|臭氧探空仪|
 |ozone spectrophotometer|臭氧分光光度仪|
-## 电子类专业英语词汇 P 
-|English|Chinese|
-|-|-| 
-|P-net|P-net总线|
-|P-scope|P型显示|
+
+h2(#电子类专业英语词汇-p). 电子类专业英语词汇 P 
+
+|_. English|_. Chinese|
+|P&#45;net|P&#45;net总线|
+|P&#45;scope|P型显示|
 |P.T.C.thermistor|正温度系数热敏电阻器|
-|p-type oxide gas sensor|P型氧化物气敏元件|
-|P-V-T-t technique|压力-容积-温度-时间法|
+|p&#45;type oxide gas sensor|P型氧化物气敏元件|
+|P&#45;V&#45;T&#45;t technique|压力&#45;容积&#45;温度&#45;时间法|
 |pack|包装 件|
 |package|包装；包装件|
 |packaging|包装|
 |packaging standard|包装标准|
 |packed capillary column|真充毛细管柱|
 |packed column|填充柱|
-|packed-type solenoid valve|填料函型电磁阀|
+|packed&#45;type solenoid valve|填料函型电磁阀|
 |packet|包|
 |packet mode|包方式|
 |packet sequencing|包排序|
@@ -2958,7 +2973,7 @@
 |packless solenoid valve|无填料函型电磁阀|
 |page addressing|页面寻址|
 |page printer|页式打印机|
-|page-at-a-time printer|一次一页印刷机；页式印刷机|
+|page&#45;at&#45;a&#45;time printer|一次一页印刷机；页式印刷机|
 |panel|盘；屏，画面|
 |panel mounting (pressure) gauge|盘装压力表|
 |panoramic exposure|周向照射；全景照射|
@@ -2986,7 +3001,7 @@
 |parasitic echo|干扰反射波|
 |parasitic voltage of voltage divider|分压箱寄生电压|
 |parasol radiometer|伞式辐射计|
-|parent-molecule ion|母分子离子|
+|parent&#45;molecule ion|母分子离子|
 |parity check|奇偶校验|
 |partial failure|部分失效|
 |partial immersion|thermometer,局浸温度计|
@@ -2995,9 +3010,9 @@
 |partition chromatography|分配色谱法|
 |partition coefficient|分配系数|
 |partition isothem|分配等温线|
-|part-turn electric actuator|角行程电动执行机构|
+|part&#45;turn electric actuator|角行程电动执行机构|
 |Pascal|帕（斯卡）|
-|pass-line deflection|跑偏|
+|pass&#45;line deflection|跑偏|
 |passing unregistered gas (PUG)|漏记气体|
 |passive remote sensing|被动遥感|
 |passive transducer [sensor]|无源传感器|
@@ -3026,8 +3041,8 @@
 |peak stripping|谱峰剥离|
 |peak temperature|峰温度|
 |peak time|峰值时间|
-|peak-to-peak value|峰峰值|
-|peak-to-peak value of displacement|峰-峰值位移|
+|peak&#45;to&#45;peak value|峰峰值|
+|peak&#45;to&#45;peak value of displacement|峰&#45;峰值位移|
 |peak (top) flatness|峰顶平直度|
 |peak transmittance|峰值透过率|
 |peak value|峰值|
@@ -3064,11 +3079,11 @@
 |peripheral flow rate|周缘流量|
 |peripheral interface adapter(PIA)|外围接口适配器|
 |peripheral transfer|外围传送|
-|peristaltic multi-channel pump|多通道蠕动泵|
+|peristaltic multi&#45;channel pump|多通道蠕动泵|
 |permanent flow rate|常设流量|
-|permanent-magnet-coil instrument|永磁动圈式[磁电系]仪表|
+|permanent&#45;magnet&#45;coil instrument|永磁动圈式[磁电系]仪表|
 |permanent magnetic lens|永磁透镜|
-|permanent-magnet movingcoil galvanometer|永磁动圈式[磁电系]检流计[振动 子]|
+|permanent&#45;magnet movingcoil galvanometer|永磁动圈式[磁电系]检流计[振动 子]|
 |permeability|渗透率|
 |permeability tube|渗透管|
 |permeameter|磁导计|
@@ -3086,7 +3101,7 @@
 |phase angle|相角|
 |phase angle stabilization|相角稳定|
 |phase contrast|位相衬度|
-|phase-controlled circuit breaker|断电相位控制器|
+|phase&#45;controlled circuit breaker|断电相位控制器|
 |phase datum mark|相位基准标记|
 |phase detection|相位检测|
 |phase detector|鉴相器|
@@ -3114,21 +3129,21 @@
 |phase trajectory|相轨迹|
 |phase transition|相变|
 |phase variable|相变量|
-|phase-continuous FSK|相位连续FSK|
-|phase-crossover frequency|相位交越频率|
-|phase-frequency characteristics|相频特性|
-|phase-shift ultrasonic flowmeter|相移式超声流量计|
+|phase&#45;continuous FSK|相位连续FSK|
+|phase&#45;crossover frequency|相位交越频率|
+|phase&#45;frequency characteristics|相频特性|
+|phase&#45;shift ultrasonic flowmeter|相移式超声流量计|
 |phon|方（响度级的单位）|
 |phosphorescence|磷光|
 |photo conduction tube|光导管|
 |photoelectron spectroscopy (PES)|光电子能谱法|
-|photo-electrical coded compass|光电码罗盘|
-|photo-electrostatic display recorder|感光静电显示记录仪|
+|photo&#45;electrical coded compass|光电码罗盘|
+|photo&#45;electrostatic display recorder|感光静电显示记录仪|
 |photoionization|光电离|
 |photoresistor|光敏电阻器|
-|photo-sensitive recorder|感光显示记录仪|
+|photo&#45;sensitive recorder|感光显示记录仪|
 |photo sensor|光敏元件|
-|photo-theodolite|摄影经纬仪|
+|photo&#45;theodolite|摄影经纬仪|
 |photoacoustic spectrometry|光声光谱法|
 |photoconductive transducer [sensor]|光导式传感器|
 |photoelectric colorimeter|光电比色法|
@@ -3139,7 +3154,7 @@
 |photoelectric position detector|光电式位置检测器|
 |photoelectric roll gap measuring instrument|光电式辊缝测量仪|
 |photoelectric tachometer|光电式转速表|
-|photoelectric tacho-metric transducer|光电式转速传感器|
+|photoelectric tacho&#45;metric transducer|光电式转速传感器|
 |photoelectric thermometer|光电温度计|
 |photoelectric transmissometer|光电透射仪|
 |photoelectric width meter [gauge]|光电式宽度计|
@@ -3156,13 +3171,14 @@
 |physical model|物理模型|
 |physical modeling|物理建模|
 |physical property type transducer [sensor]|物性型传感器|
-## 电子类专业英语词汇 Q 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-q). 电子类专业英语词汇 Q 
+
+|_. English|_. Chinese|
 |Q factor|Q值因数|
-|Q-percentile life|可靠寿命|
+|Q&#45;percentile life|可靠寿命|
 |quad array|方阵|
-|quadrant-edge orifice plate|1/4 圆周边缘孔板|
+|quadrant&#45;edge orifice plate|1/4 圆周边缘孔板|
 |quadrant electrometer|象限静电计|
 |quadrupole field|四极场|
 |quadrupole ion trap|四极离子阱|
@@ -3198,27 +3214,28 @@
 |quantized signal|量化信号|
 |quartet|四重布置；四重检测|
 |quarter circle orifice plate|1/4 圆孔板|
-|quartz-Bourdon tube (pressure)gauge|石英弹簧管压力计|
+|quartz&#45;Bourdon tube (pressure)gauge|石英弹簧管压力计|
 |quartz crystal unit humidity transducer[sensor]晶体振子式湿度传感器||
 |quartz module|石英组件|
 |quartz spring gravimeter|石英弹簧重力仪|
 |quartz thermometer|石英温度计；石英温度表|
-|quasi-equilibrium theory|准平衡理论|
-|quasi-molecular ion|准分子离子|
-|quasi-periodic vibration|准周期振动|
-|quasi-rigid rotor|准刚性转子|
-|quasi-sinusoidal quantity|准正弦量|
-|quasi-static unbalance|准静不平衡|
+|quasi&#45;equilibrium theory|准平衡理论|
+|quasi&#45;molecular ion|准分子离子|
+|quasi&#45;periodic vibration|准周期振动|
+|quasi&#45;rigid rotor|准刚性转子|
+|quasi&#45;sinusoidal quantity|准正弦量|
+|quasi&#45;static unbalance|准静不平衡|
 |quasilinear characteristics|准线性特性|
 |quenching|阻塞|
 |question and answer mode|问答式|
 |queuing theory|排队论|
 |quick thermophysical property measuring apparatus|热物性快速测定仪|
 |quintet|五重布置；五重检测|
-|quotient-meter|商值表|
-## 电子类专业英语词汇 R 
-|English|Chinese|
-|-|-| 
+|quotient&#45;meter|商值表|
+
+h2(#电子类专业英语词汇-r). 电子类专业英语词汇 R 
+
+|_. English|_. Chinese|
 |rack|框架|
 |radar altimeter|雷达高度计|
 |radial clearance|径向间隙|
@@ -3287,7 +3304,7 @@
 |random uncertainty|随机不确定度|
 |random vibration|随机振动|
 |range|范围|
-|range-change device|范围转换器；量限转换器|
+|range&#45;change device|范围转换器；量限转换器|
 |range of load|负荷范围|
 |range of strain|应变范围|
 |range of stress|应力范围|
@@ -3297,7 +3314,7 @@
 |Rankine temperature scale|兰金温标|
 |rangeability|范围度|
 |rapid Fourier transform NMR correlation spectroscopy|快速傅立叶变换核磁共振相关波谱法|
-|rapid TG-DTA unit|快速加热差示热分析仪/热天平|
+|rapid TG&#45;DTA unit|快速加热差示热分析仪/热天平|
 |rate of change limiting control|变化率极限控制|
 |rate of deformation|变形速率|
 |rate of loading|加荷速率|
@@ -3322,7 +3339,7 @@
 |rated range of use|额定使用范围|
 |rated secondary current|额定二次电流|
 |rated secondary voltage|额定二次电压|
-|rated short-time thermal current|额定短时热电流|
+|rated short&#45;time thermal current|额定短时热电流|
 |rated static longitudinal load|额定静态纵向负荷|
 |rated static transverse load|额定静态横向负荷|
 |rated transformation ratio (of a current transformer)|（电流互感器的） 额定变比|
@@ -3357,33 +3374,33 @@
 |reactive energy meter[varhour meter]|无功电度表[乏时计]|
 |reactive power meter|无功功率表|
 |read|读|
-|read-only memory(ROM)|只读存储器|
-|read-only storage|只读存储器|
+|read&#45;only memory(ROM)|只读存储器|
+|read&#45;only storage|只读存储器|
 |readability|易读性；可读度；读数精 度|
 |reading bridge|读数电桥|
 |reading strain|应变读数|
 |readjustments|重调|
 |readout time|读出时间|
 |real gas critical flow coefficient|真实气体临界流量系数|
-|real-aperture side-looking airborne radar|实孔径侧视雷达|
+|real&#45;aperture side&#45;looking airborne radar|实孔径侧视雷达|
 |real image|实象|
 |real strain|真实应变|
-|real-time|实时|
-|real-time analysis|实时分析|
-|real-time analyzer|实时分析仪|
-|real-time clock|实时时钟|
-|real-time control|实时控制|
-|real-time control system|实时控制系统|
-|real-time data processing|实时数据处理|
-|real-time expert system|实时专家系统|
-|real-time input|实时输入|
-|real-time output|实时输出|
-|real-time remote control|实时遥控|
-|real-time simulation|实时仿真|
-|real-time simulation algorithm|实时仿真算法|
-|real-time system|实时系统|
-|real-time telemetry|实时遥测|
-|real-time trend panel|实时趋势画面|
+|real&#45;time|实时|
+|real&#45;time analysis|实时分析|
+|real&#45;time analyzer|实时分析仪|
+|real&#45;time clock|实时时钟|
+|real&#45;time control|实时控制|
+|real&#45;time control system|实时控制系统|
+|real&#45;time data processing|实时数据处理|
+|real&#45;time expert system|实时专家系统|
+|real&#45;time input|实时输入|
+|real&#45;time output|实时输出|
+|real&#45;time remote control|实时遥控|
+|real&#45;time simulation|实时仿真|
+|real&#45;time simulation algorithm|实时仿真算法|
+|real&#45;time system|实时系统|
+|real&#45;time telemetry|实时遥测|
+|real&#45;time trend panel|实时趋势画面|
 |realizability|可实现性；能实现性|
 |realization of international temperature scale|国际温标的复现|
 |rearrange molecular ion|重排分子离子|
@@ -3405,7 +3422,7 @@
 |recording instrument|自记仪器|
 |recording(measuring)instrument|记录（测量）仪器|
 |recording medium|记录介质|
-|recording snow-gauge|自记雪量计|
+|recording snow&#45;gauge|自记雪量计|
 |recording sync|记录同步|
 |recording theodolite|自记经纬仪|
 |recovery time|恢复时间|
@@ -3417,7 +3434,7 @@
 |recursive estimation|递推估计|
 |recycle chromatography|循环色谱法|
 |redox electrode assembly|氧化还原复合电极|
-|redox potential meter|氧化-还原电位测定仪|
+|redox potential meter|氧化&#45;还原电位测定仪|
 |reduced capacity trim|低容量阀内件|
 |reduced model|降阶模型|
 |reduced order observer|降阶观测器|
@@ -3426,10 +3443,11 @@
 |reduction of area|断面收缩率|
 |reduction of length|缩短率|
 |redundancy computer system|冗余计算机系统|
-## 电子类专业英语词汇 S 
-|English|Chinese|
-|-|-| 
-|safe chamber (of liquid-inglass thermometer)|（玻璃温度计的）安全泡|
+
+h2(#电子类专业英语词汇-s). 电子类专业英语词汇 S 
+
+|_. English|_. Chinese|
+|safe chamber (of liquid&#45;inglass thermometer)|（玻璃温度计的）安全泡|
 |safeguard of ultratemperature|超温保护装置|
 |safety hardware|安全硬件|
 |safety protection device|安全保护装置|
@@ -3442,16 +3460,16 @@
 |salt spray device|盐雾发生装置|
 |salt spray filter|盐雾过滤器|
 |salt spray [mist] test|盐雾试验|
-|same-polarity method of calibrating thermocouple|热遇偶同名极检定法|
+|same&#45;polarity method of calibrating thermocouple|热遇偶同名极检定法|
 |sample|试样；试样；样本|
 |sample holder|样品支持器|
 |sample injector|进样器|
 |sample resistance|取样电阻|
 |sample size|样本大小|
 |sampled data|采样数据|
-|sampled-data control|采样控制|
-|sampled-data control system|采样控制系统|
-|sampled-data system|采样系统|
+|sampled&#45;data control|采样控制|
+|sampled&#45;data control system|采样控制系统|
+|sampled&#45;data system|采样系统|
 |sampled signal|采样信号|
 |sampler|采样器|
 |sampling|采样；取样|
@@ -3459,7 +3477,7 @@
 |sampling control|采样控制|
 |sampling control system|采样控制系统|
 |sampling controller|采样控制器|
-|sampling cross-section [station]|取样横截面[部位]|
+|sampling cross&#45;section [station]|取样横截面[部位]|
 |sampling element|采样元件|
 |sampling error|采样误差|
 |sampling frequency|采样频率|
@@ -3495,7 +3513,7 @@
 |scale range|标度范围|
 |scale sensitivity|分格灵敏度|
 |scale spacing|标度分格间距|
-|scaling (for analogue-to-digital converter)|（数/模转换的）规范化|
+|scaling (for analogue&#45;to&#45;digital converter)|（数/模转换的）规范化|
 |scan rate|扫描速率|
 |scanner|扫描器|
 |scanning|扫描；扫查|
@@ -3575,46 +3593,46 @@
 |selective radiator|选择辐射体|
 |selectivity|选择性|
 |selectivity coefficient|选择系数|
-|self-absorption|自吸|
-|self-actuated regulator|自力式调节阀|
-|self-compensating propeller|自补偿旋桨|
-|self-contained STD profiling system|自容式温盐深剖面仪|
-|self-diagonostic alarm panel|自诊断报警画面|
-|self-electrode|自由极|
-|self-excitation optical pumping magnetometer|自激式光泵磁力仪|
-|self-excited vibration|自激励振动|
-|self-heating|自热|
-|self-heating error|自热误差|
-|self-induced vibration|自激振动|
-|self-latch solenoid valve|保持式电磁阀|
-|self-operated controller|自力式控制器|
-|self-operated controller|自力式控制器|
-|self-operated differential pressure regulator|自力式差压调节阀|
-|self-operated flow regulator|自力式流量调节阀|
-|self-operated level regulator|自力式液位调节阀|
-|self-operated level regulator|自力式液位调节阀|
-|self-operated pressure regulator|自力式压力调节阀|
-|self-operated regulator|自力式调节阀|
-|self-operated temperature regulator|自力式温度调节阀|
-|self-optimizing control|自寻优控制|
-|self-optimizing system|自寻优系统|
-|self-programming|自编程|
-|self-reducing tachometer|自动归算速测仪|
-|self-regulating|自调整|
-|self-repairing|自修复|
-|self-temperature compensated strain gauge|温度自补偿应变计|
-|self-tuning|自校正|
-|self-tuning control|自校正控制|
+|self&#45;absorption|自吸|
+|self&#45;actuated regulator|自力式调节阀|
+|self&#45;compensating propeller|自补偿旋桨|
+|self&#45;contained STD profiling system|自容式温盐深剖面仪|
+|self&#45;diagonostic alarm panel|自诊断报警画面|
+|self&#45;electrode|自由极|
+|self&#45;excitation optical pumping magnetometer|自激式光泵磁力仪|
+|self&#45;excited vibration|自激励振动|
+|self&#45;heating|自热|
+|self&#45;heating error|自热误差|
+|self&#45;induced vibration|自激振动|
+|self&#45;latch solenoid valve|保持式电磁阀|
+|self&#45;operated controller|自力式控制器|
+|self&#45;operated controller|自力式控制器|
+|self&#45;operated differential pressure regulator|自力式差压调节阀|
+|self&#45;operated flow regulator|自力式流量调节阀|
+|self&#45;operated level regulator|自力式液位调节阀|
+|self&#45;operated level regulator|自力式液位调节阀|
+|self&#45;operated pressure regulator|自力式压力调节阀|
+|self&#45;operated regulator|自力式调节阀|
+|self&#45;operated temperature regulator|自力式温度调节阀|
+|self&#45;optimizing control|自寻优控制|
+|self&#45;optimizing system|自寻优系统|
+|self&#45;programming|自编程|
+|self&#45;reducing tachometer|自动归算速测仪|
+|self&#45;regulating|自调整|
+|self&#45;repairing|自修复|
+|self&#45;temperature compensated strain gauge|温度自补偿应变计|
+|self&#45;tuning|自校正|
+|self&#45;tuning control|自校正控制|
 |semantic network|语义网络|
-|semi-anechoic chamber|半电波暗室|
-|semi-automatic logging instrument|半自动测井仪|
-|semi-automatic testing machine|半自动试验机|
-|semi-automation|半自动化|
+|semi&#45;anechoic chamber|半电波暗室|
+|semi&#45;automatic logging instrument|半自动测井仪|
+|semi&#45;automatic testing machine|半自动试验机|
+|semi&#45;automation|半自动化|
 |semiconducting specimen stage|半导体样品台|
 |semiconductor strain gauge|半导体应变计|
-|semi-digital readout|半数字读出|
-|semi-graphic panel|半模拟盘[屏]|
-|semi-physical simulation|半实物仿真|
+|semi&#45;digital readout|半数字读出|
+|semi&#45;graphic panel|半模拟盘[屏]|
+|semi&#45;physical simulation|半实物仿真|
 |sensing clement|敏感元件；检测元件|
 |sensing torque shaft|转矩传感轴|
 |sensitive grid|敏感栅|
@@ -3631,16 +3649,17 @@
 |sensor with internal convection sensitive element|内对流敏感元件传感器|
 |sensor with supporter catalyst filled element|载体催化元件传感器|
 |sensory control|感知控制|
-## 电子类专业英语词汇 T 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-t). 电子类专业英语词汇 T 
+
+|_. English|_. Chinese|
 |tachometer|转速表|
 |tachometer generator|测速发电机|
-|tacho-torquemeter|转矩转 速测量仪|
+|tacho&#45;torquemeter|转矩转 速测量仪|
 |tailing peak|拖尾峰|
 |tailored control system|柔性控制系统|
-|take-off angle|出射角|
-|take-up|缩格|
+|take&#45;off angle|出射角|
+|take&#45;up|缩格|
 |tandem data circuit|级联数据电路|
 |tape recorder of digital logging|数字测井磁带记录仪|
 |tape recorder|磁带记录仪|
@@ -3662,7 +3681,7 @@
 |technical evaluation|技术评定；技术评价|
 |technical regulation|技术法规|
 |technical specification|技术规范|
-|techniques for approximating the ITS-90|ITS-90 的近似技术|
+|techniques for approximating the ITS&#45;90|ITS&#45;90 的近似技术|
 |telecommunication|远程通信|
 |telemeasuring equipment|遥测装置|
 |telemechanics|运动学|
@@ -3691,7 +3710,7 @@
 |temperature|温度|
 |temperature compensating method of reference junction|参比端温度补偿法|
 |temperature compensation|温度补偿|
-|temperature-conductivity indicator|温度—电导率测量仪|
+|temperature&#45;conductivity indicator|温度 -- 电导率测量仪|
 |temperature constant state|恒温状态|
 |temperature control thermistor|控温热敏电阻器|
 |temperature controlled salinity bath|控温盐水槽|
@@ -3708,19 +3727,19 @@
 |temperature gradient|温度梯度|
 |temperature humidity chamber|恒温恒湿箱|
 |temperature humidity range|温度湿度范围|
-|temperature-humidity test chamber|湿热试验箱|
-|temperature-hysteresis effect of standard cell|标准电池温度滞后效应|
+|temperature&#45;humidity test chamber|湿热试验箱|
+|temperature&#45;hysteresis effect of standard cell|标准电池温度滞后效应|
 |temperature measure thermistor|测温热敏电阻器|
 |temperature measurement|温度测量|
 |temperature of the extrapolated onset|外推起始温度|
 |temperature of the ocean|海洋水温|
 |temperature offset|温度偏置|
 |temperature point for verification|检验温度点|
-|temperature-pressure tank|控温压力罐|
-|temperature-pressure test chamber|温压试验箱|
+|temperature&#45;pressure tank|控温压力罐|
+|temperature&#45;pressure test chamber|温压试验箱|
 |temperature radiation|温度辐射|
 |temperature range|温度范围|
-|temperature-rise period|升温过程（阶段）|
+|temperature&#45;rise period|升温过程（阶段）|
 |temperature rise time|升温时间|
 |temperature rising|温升|
 |temperature scale|温（度）标（尺）|
@@ -3735,8 +3754,8 @@
 |tensile testing machine|拉力试验机|
 |tension force|张力|
 |terminal|终端|
-|terminal-based conformity|端基一致性|
-|terminal-based linearity|端基线性度|
+|terminal&#45;based conformity|端基一致性|
+|terminal&#45;based linearity|端基线性度|
 |terminal control|终端控制|
 |terminology standard|术语标准|
 |terrestrial radiation|地球辐射|
@@ -3745,7 +3764,7 @@
 |test coil|试验线圈|
 |test data|试验数据|
 |test for nominal samples|标样试验|
-|test for non-transmission(of an internal explosion)|隔爆性能试验|
+|test for non&#45;transmission(of an internal explosion)|隔爆性能试验|
 |test frequency|激励频率；试验频率|
 |test loads|试验负荷|
 |test mass|试验质量|
@@ -3763,7 +3782,7 @@
 |testing facility|试验装置|
 |testing system flexibility|试验系统的柔度|
 |texturometer|构造仪|
-|TG- DTA|热天平/差示热分析仪|
+|TG&#45; DTA|热天平/差示热分析仪|
 |thematic mapper (TM)|专题制图仪|
 |theodolite|经纬仪|
 |theorotical intensity of scattered ion|散射离子的理论强度|
@@ -3811,7 +3830,7 @@
 |thermistor|热敏电阻|
 |thermistor chain|热敏电阻测温链|
 |(thermo) reference material|（热）参比物|
-|thermo-sensitive element|热敏元件|
+|thermo&#45;sensitive element|热敏元件|
 |thermoacoustimetry|热（传）声法|
 |thermoacoustimetry apparatus|热传声仪|
 |thermobalance|热天平|
@@ -3826,7 +3845,7 @@
 |thermodynamic quantity transducer [sensor]|热学量传感器|
 |thermodynamic temperature|热力学温度|
 |thermodynamic temperature scale|热力学温标|
-|thermoelectric effect (of resistance thermometer sensor)|（热电阻的）热电影响 |
+|thermoelectric effect (of resistance thermometer sensor)|（热电阻的）热电影响|
 |thermoelectric effect error|热电效应误差|
 |thermoelectric thermometer|热电温度计|
 |thermoelectric thermometry|热电测温法|
@@ -3840,13 +3859,14 @@
 |thermogravimetric curve|热重曲线|
 |thermogravimetry (TG)|热重法|
 |thermogravimetry curve|热重曲线；|
-## 电子类专业英语词汇 U 
-|English|Chinese|
-|-|-| 
-|U-port|U型端口|
-|U-tube manometer|U形管压力计|
-|ultra-high vacuum|超高真空|
-|ultra-high voltage electron microscope|超高压电子显微镜|
+
+h2(#电子类专业英语词汇-u). 电子类专业英语词汇 U 
+
+|_. English|_. Chinese|
+|U&#45;port|U型端口|
+|U&#45;tube manometer|U形管压力计|
+|ultra&#45;high vacuum|超高真空|
+|ultra&#45;high voltage electron microscope|超高压电子显微镜|
 |ultralongwave spectrometer|超长波光谱仪|
 |ultrasonic anemometer|超声波风速表|
 |ultrasonic disc cutter|超声样品切割机|
@@ -3864,17 +3884,17 @@
 |ultrasonic transducer|超声换能器|
 |ultrasonic wave|超声波|
 |ultrathin section sample|超薄切片样品|
-|ultra-violet and visible spectrophotometer|紫外可见光分光光度计|
+|ultra&#45;violet and visible spectrophotometer|紫外可见光分光光度计|
 |ultraviolet filter|透过紫外线的滤光片|
 |ultraviolet hygrometer|紫外湿度表|
 |ultraviolet lamp|紫外线照射装置|
 |ultraviolet light transducer [sensor]|紫外光传感器|
-|ultraviolet photo-electron spectrometer|紫外光电子能谱仪|
+|ultraviolet photo&#45;electron spectrometer|紫外光电子能谱仪|
 |ultraviolet photo electron spectroscopy (UPS)|紫外光电子能谱法|
 |ultraviolet radiation|紫外线辐射|
 |ultraviolet ray intensity meter|紫外线强度计|
 |ultraviolet remote sensing|紫外遥感|
-|ultraviolet-visible detector|紫外—可见光检测器|
+|ultraviolet&#45;visible detector|紫外 -- 可见光检测器|
 |unaddressed operation|非寻址操作|
 |unbalance|不平衡|
 |unbalance component measuring device|不平衡分量测量装置|
@@ -3945,13 +3965,13 @@
 |unmanned submersible|无人潜水器|
 |unsaturated standard cell|不饱和式标准电池|
 |unsteady flow|不稳定流|
-|upper-air observation|高空观测|
+|upper&#45;air observation|高空观测|
 |upper limit of the nominal of use for frequency|标称使用频率范围上限|
 |upward (total) radiation|向上（全）辐射|
 |upward terrestrial radiation|向上地球辐射|
 |urea enzyme transducer [sensor]|酶（式）尿毒传感器|
 |urinary bladder inner pressure transducer [sensor]|膀胱内压传感器|
-|usable cross-section of the test channel|试验流道的可用横截面|
+|usable cross&#45;section of the test channel|试验流道的可用横截面|
 |usable minimum immersion depth|最小可用浸入深度|
 |useful life|使用寿命|
 |useful spectral range|有效光谱范围|
@@ -3961,9 +3981,10 @@
 |utility software|实用软件|
 |UV dosimeter|紫外线表|
 |UVW anemometer|三维风速表；UVW风速表|
-## 电子类专业英语词汇 V 
-|English|Chinese|
-|-|-| 
+
+h2(#电子类专业英语词汇-v). 电子类专业英语词汇 V 
+
+|_. English|_. Chinese|
 |vacancy chromatography|空穴色谱法|
 |vacuum|真空；负压|
 |vacuum accumulator|真空贮气筒|
@@ -3978,7 +3999,7 @@
 |validity check|有效性检验|
 |validity event|有效事件|
 |valley|谷|
-|Vallot helio-thermometer|瓦劳特日光温度表|
+|Vallot helio&#45;thermometer|瓦劳特日光温度表|
 |value analysis|价值分析|
 |value engineering|价值工程|
 |value (of a quantity)|（量）值|
@@ -4004,14 +4025,14 @@
 |vaporizer|汽化室|
 |vaporizing heat|气化热|
 |variable|变量|
-|variable-angle internal reflection element|可变角度内反射元件|
+|variable&#45;angle internal reflection element|可变角度内反射元件|
 |variable angle probe|可变有探头|
 |variable area flowmeter|变面积流量计|
-|variable-area methods|可变面积法|
+|variable&#45;area methods|可变面积法|
 |variable gain|可变增益；可变放大系数|
 |variable gain method|可变增益法|
-|variable-head flowmeter|可变压头流量计|
-|variable magnetic-resistance type transducer|变磁阻式传感器|
+|variable&#45;head flowmeter|可变压头流量计|
+|variable magnetic&#45;resistance type transducer|变磁阻式传感器|
 |variable pressure|变化压力；变压|
 |variable standard capacitor|可变标准电容器|
 |variable structure control system|变结构控制系统|
@@ -4025,7 +4046,7 @@
 |veiling glare|杂光|
 |veiling glare coefficient|杂光系数|
 |velocity|速度|
-|velocity-area methods|速度面积法|
+|velocity&#45;area methods|速度面积法|
 |velocity distribution|速度分布|
 |velocity error|速度误差|
 |velocity error coefficient|速度误差系数|
@@ -4060,7 +4081,7 @@
 |vertical tail|垂直翼|
 |vertical temperature profiler radiometer (VTPR)|垂直温度剖面仪|
 |vertical visibility|垂直能见度|
-|very low-frequency electromagnetic receiver|甚低频电磁仪|
+|very low&#45;frequency electromagnetic receiver|甚低频电磁仪|
 |VF presentation|视频显示；检波显示|
 |vibrating reed instrument|振簧系仪表|
 |vibrating sample magnetometer|振动样品磁强计|
@@ -4087,7 +4108,7 @@
 |vibration measurement by mechanical method|机械测振法|
 |vibration measurement by relative method|相对测振法|
 |vibration monitor|振动监视器|
-|vibration pick-up|振动传感器|
+|vibration pick&#45;up|振动传感器|
 |vibration severity|振动烈度|
 |vibration standard exciter|标准振动台|
 |vibration test|振动试验|
@@ -4124,22 +4145,22 @@
 |voltage circuit|电压电路|
 |voltage constant|电压常数|
 |voltage controlled gate （VCG）module|电压控制门组件|
-|voltage-dependent resistor|电压敏电阻器|
+|voltage&#45;dependent resistor|电压敏电阻器|
 |voltage divider|分压器|
 |voltage divider with auxiliary branch circuit|具有辅助支路的分压箱|
 |voltage error|电压比值差|
 |voltage matching transformer|电压匹配互感器|
 |voltage ratio|电压比|
 |voltage ratio of a capacitor divider|电容器式分压器的电压比|
-|voltage-regulation coefficient|稳压系数|
-|voltage-second calibrator|伏秒定标器|
+|voltage&#45;regulation coefficient|稳压系数|
+|voltage&#45;second calibrator|伏秒定标器|
 |voltage sensitivity|电压灵敏度|
 |voltage stabilized thermistor|稳压热敏电阻器|
 |voltage transducer [sensor]|电压传感器|
 |voltage transformer|电压互感器|
 |voltammetry|伏安法|
-|volt-ammpere meter|视在功率表|
-|volt-ampere-hour metr|视在功率电度表；伏安时计|
+|volt&#45;ammpere meter|视在功率表|
+|volt&#45;ampere&#45;hour metr|视在功率电度表；伏安时计|
 |voltmeter|电压表|
 |volume conductive humidity transducer [sensor]|体电导式湿度传感器|
 |volume flow|体积流量总量|
@@ -4155,19 +4176,20 @@
 |vortex flowmeter|旋涡流量计|
 |vortex precession flowmeter|旋涡进动流量计|
 |vortex shedding flow transducer|涡街流量传感器|
-|vortex-shedding flowmeter|涡街流量计|
-## 电子类专业英语词汇 W 
-|English|Chinese|
-|-|-| 
-|W-cathode|W-阴极|
+|vortex&#45;shedding flowmeter|涡街流量计|
+
+h2(#电子类专业英语词汇-w). 电子类专业英语词汇 W 
+
+|_. English|_. Chinese|
+|W&#45;cathode|W&#45;阴极|
 |wading rod|测流标杆|
 |wait byte|等待字节|
 |wake oscillator|尾流振荡器|
 |wall mounting (pressure) gauge|墙装压力表|
 |wall (pressure) tapping|管壁取压口|
-|wall-coated open-tubular column; WCOT column|涂壁空心柱|
-|warm-up period|预热期|
-|warm-up time|预热时间|
+|wall&#45;coated open&#45;tubular column; WCOT column|涂壁空心柱|
+|warm&#45;up period|预热期|
+|warm&#45;up time|预热时间|
 |washing station|清洗装置|
 |watchdog timer|监视时钟|
 |watercolor|水色|
@@ -4188,11 +4210,11 @@
 |waterproof solenoid valve|防水型电磁阀|
 |waterproof type strain gauge|防水应变计|
 |watertight instrument|水密式仪器仪表|
-|watt-hour meter|瓦时计|
+|watt&#45;hour meter|瓦时计|
 |wattmeter|功率表|
 |wave|波浪；波|
 |wave direction|波向|
-|wave form display type shallow-layer seismograph|波形表示型浅层地震仪|
+|wave form display type shallow&#45;layer seismograph|波形表示型浅层地震仪|
 |wave generator|造波机|
 |wave guide|波导管|
 |wave height|波高|
@@ -4205,7 +4227,7 @@
 |waveform stabilization|波形稳定|
 |wavelength band|工作波段|
 |wavelength dispersion|波长色散|
-|wear-out failure|耗损失效|
+|wear&#45;out failure|耗损失效|
 |weather radar|天气雷达|
 |weather resistance test|耐候试验|
 |weather satellite|气象卫星|
@@ -4219,7 +4241,7 @@
 |weight carrier|底盘|
 |weight correction value|砝码修正值|
 |weight indication|砝码标称值|
-|weight-loaded regulator|重力型自力式调节阀|
+|weight&#45;loaded regulator|重力型自力式调节阀|
 |weight of measurment|测量的权|
 |weight value of practical mass|砝码实际质量值|
 |weighted arithmetic mean|加权算术平均值|
@@ -4236,14 +4258,14 @@
 |welded ends|焊接连接端|
 |welded mounting coupler|焊头|
 |wet bulb|湿球|
-|wet-bulb temperature|湿球温度|
-|wet-bulb thermometer|湿球温度表|
+|wet&#45;bulb temperature|湿球温度|
+|wet&#45;bulb thermometer|湿球温度表|
 |wet gas meter|湿式气体表|
 |Wheatstone bridge|惠斯登电桥|
 |whirling pschrometer|旋转干湿表|
 |white noise|白噪声|
 |white random vibration|白随机振动|
-|white X-rays|白色X射线|
+|white X&#45;rays|白色X射线|
 |whole machine balancing|整体平衡|
 |wide band seismograph|宽频带地震仪|
 |width meter [gauge]|宽度计|
@@ -4284,7 +4306,7 @@
 |word length|字长|
 |work file|工作文卷|
 |work station|工作站|
-|work station for computer-aided design|计算机辅助设计工作站|
+|work station for computer&#45;aided design|计算机辅助设计工作站|
 |working chamber|工作室|
 |working conditions|工作条件|
 |working pressure|工作压力|
@@ -4298,74 +4320,77 @@
 |wound primary type current transformer|绕线式电流互感器|
 |write|写|
 |writing speed|记录速度|
-## 电子类专业英语词汇 X
-|English|Chinese|
-|-|-| 
-|x-radiation thickness meter|x射线厚度计|
-|X-ray|X射线；伦琴射线；X光|
-|X-ray absorption spectrometer|X射线吸收式光谱仪|
-|X-ray analysis|X射线分析法|
-|X-ray analyzer|X射线分析器|
-|X-ray apparatus for structure analysis|结构分析用X射线分析|
-|X-ray beam stop|X射线光束截捕器|
-|X-ray cinematography|X射线电影摄像法|
-|X-ray controller|X射线控制器|
-|X-ray crystal spectrometer|X射线晶体光谱仪|
-|X-ray detector|X射线探测器|
-|X-ray diffraction analysis|X射线衍射分析法|
-|X-ray diffractometer|X射线衍射仪|
-|X-ray energy dispersive spectrometr|X-射线能量分散谱仪|
-|X-ray energy spectrometr|X射线能谱仪|
-|X-ray filter|X射线过滤器|
-|X-ray fluoremetry logger|X射线荧光测井仪|
-|X-ray fluoresce readout analyzer|X射线荧光直读分析仪|
-|X-ray fluorescence analysis|X射线荧光分析法|
-|X-ray fluorescent emission spectrometer|X射线荧光发射光谱仪|
-|X-ray fluorimeter|X射线荧光仪|
-|X-ray fluorimeter in borehole|井下X射线荧光仪|
-|X-ray goniometer|X射线测角仪|
-|X-ray high voltage generator|X射线高压发生器|
-|X-ray intensity|X射线强度|
-|X-ray monochromator|X射线单色器|
-|X-ray photo-electron spectrometer (XPS)|X射线光电子能谱仪|
-|X-ray photo electron spectroscopy (XPS)|X射线光电子能谱法|
-|X-ray powder diffractometer|X射线粉末衍射仪|
-|X-ray spectrograph|X射线摄谱仪|
-|X-ray spectrometer|X射线光谱仪|
-|X-ray spectrometer arrangement|X射线分光装置|
-|X-ray spectrum|X射线光谱|
-|X-ray television apparatus for industry|工业X射线电视装置|
-|X-ray transducer [sensor]|X射线传感器|
-|X-ray tube|X射线管|
-|X-ray tube current|X射线管电流|
-|X-ray tube head|X射线管头|
-|X-ray tube rating charts|X射线管负荷特性曲线|
-|X-ray tube shield|X射线管防护罩|
-|X-ray tube voltage|X射线管电压|
-|X-ray tube window|X射线管窗口|
-|X-ray wavelength dispersive spectrometer|X射线波长色散谱仪|
-|X-Y recorder|XY记录仪|
-## 电子类专业英语词汇 Y 
-|English|Chinese|
-|-|-| 
-|Y-modulation|Y调制角|
+
+h2(#电子类专业英语词汇-x). 电子类专业英语词汇 X
+
+|_. English|_. Chinese|
+|x&#45;radiation thickness meter|x射线厚度计|
+|X&#45;ray|X射线；伦琴射线；X光|
+|X&#45;ray absorption spectrometer|X射线吸收式光谱仪|
+|X&#45;ray analysis|X射线分析法|
+|X&#45;ray analyzer|X射线分析器|
+|X&#45;ray apparatus for structure analysis|结构分析用X射线分析|
+|X&#45;ray beam stop|X射线光束截捕器|
+|X&#45;ray cinematography|X射线电影摄像法|
+|X&#45;ray controller|X射线控制器|
+|X&#45;ray crystal spectrometer|X射线晶体光谱仪|
+|X&#45;ray detector|X射线探测器|
+|X&#45;ray diffraction analysis|X射线衍射分析法|
+|X&#45;ray diffractometer|X射线衍射仪|
+|X&#45;ray energy dispersive spectrometr|X&#45;射线能量分散谱仪|
+|X&#45;ray energy spectrometr|X射线能谱仪|
+|X&#45;ray filter|X射线过滤器|
+|X&#45;ray fluoremetry logger|X射线荧光测井仪|
+|X&#45;ray fluoresce readout analyzer|X射线荧光直读分析仪|
+|X&#45;ray fluorescence analysis|X射线荧光分析法|
+|X&#45;ray fluorescent emission spectrometer|X射线荧光发射光谱仪|
+|X&#45;ray fluorimeter|X射线荧光仪|
+|X&#45;ray fluorimeter in borehole|井下X射线荧光仪|
+|X&#45;ray goniometer|X射线测角仪|
+|X&#45;ray high voltage generator|X射线高压发生器|
+|X&#45;ray intensity|X射线强度|
+|X&#45;ray monochromator|X射线单色器|
+|X&#45;ray photo&#45;electron spectrometer (XPS)|X射线光电子能谱仪|
+|X&#45;ray photo electron spectroscopy (XPS)|X射线光电子能谱法|
+|X&#45;ray powder diffractometer|X射线粉末衍射仪|
+|X&#45;ray spectrograph|X射线摄谱仪|
+|X&#45;ray spectrometer|X射线光谱仪|
+|X&#45;ray spectrometer arrangement|X射线分光装置|
+|X&#45;ray spectrum|X射线光谱|
+|X&#45;ray television apparatus for industry|工业X射线电视装置|
+|X&#45;ray transducer [sensor]|X射线传感器|
+|X&#45;ray tube|X射线管|
+|X&#45;ray tube current|X射线管电流|
+|X&#45;ray tube head|X射线管头|
+|X&#45;ray tube rating charts|X射线管负荷特性曲线|
+|X&#45;ray tube shield|X射线管防护罩|
+|X&#45;ray tube voltage|X射线管电压|
+|X&#45;ray tube window|X射线管窗口|
+|X&#45;ray wavelength dispersive spectrometer|X射线波长色散谱仪|
+|X&#45;Y recorder|XY记录仪|
+
+h2(#电子类专业英语词汇-y). 电子类专业英语词汇 Y 
+
+|_. English|_. Chinese|
+|Y&#45;modulation|Y调制角|
 |yaw probe|偏流侧向探头|
 |yield point|屈服点|
 |yield strength|屈服强度|
 |yoke|支架；磁轭|
 |yoke method|极间法|
-## 电子类专业英语词汇 Z 
-|English|Chinese|
-|-|-| 
-|z-domain|Z域|
-|z-plane|Z平面|
-|z-transfer function|Z（变换）传递函数|
-|z- transform|Z变换|
+
+h2(#电子类专业英语词汇-z). 电子类专业英语词汇 Z 
+
+|_. English|_. Chinese|
+|z&#45;domain|Z域|
+|z&#45;plane|Z平面|
+|z&#45;transfer function|Z（变换）传递函数|
+|z&#45; transform|Z变换|
 |zenith distance|天顶距|
 |zero|零点；零位|
 |zero adjustment|调零装置|
-|zero-based conformity|零基一致性|
-|zero-based linearity|零基线性度|
+|zero&#45;based conformity|零基一致性|
+|zero&#45;based linearity|零基线性度|
 |zero calibration gas|零点校准气|
 |zero capacitance|零电容|
 |zero displacement value|零位位移植|
@@ -4373,18 +4398,18 @@
 |zero elevation|零点提升|
 |zero error|零点误差|
 |zero inductance|零电感|
-|zero-input response|零输入响应|
+|zero&#45;input response|零输入响应|
 |zero knives linear|零刀联线|
-|zero-length spring gravimeter|零长弹簧重力仪|
-|zero-line oscillating|零线抖动|
-|zero-line [reference] marker|零线装置|
-|zero-measured output|零输出|
+|zero&#45;length spring gravimeter|零长弹簧重力仪|
+|zero&#45;line oscillating|零线抖动|
+|zero&#45;line [reference] marker|零线装置|
+|zero&#45;measured output|零输出|
 |zero output base line|零输出基线|
 |zero point|零点|
-|zero- point output|零点输出|
+|zero&#45; point output|零点输出|
 |zero scale mark|零（标度）标记；零标度线|
 |zero shift|零点迁移[偏移]|
-|zero-state response|零状态响应|
+|zero&#45;state response|零状态响应|
 |zero suppression|零点下降|
 |zero variation|不回零位|
 |zigzag scan|Z形扫查；锯齿形扫查|
