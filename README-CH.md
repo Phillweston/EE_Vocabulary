@@ -26,6 +26,7 @@
 
 - **README.md**：此文件，提供仓库概览和指南。
 - **script-to-generate-markdown-table.bat**：一个 Windows 批处理脚本，用于将特定文本输入转换成 Markdown 表格格式，展示了管理词汇列表的实用性。
+- **script-to-generate-markdown-table.sh**：一个用于将特定文本输入转换成 Markdown 表格格式的 Unix shell 脚本，展示了在类似 Linux 和 Mac 的基于 Unix 的系统上管理词汇列表的实用性。
 
 ## 使用方法
 

@@ -28,6 +28,7 @@ The repository includes the EE Vocabulary in the following formats:
 
 - **README.md**: This file, provides an overview and guide to the repository.
 - **script-to-generate-markdown-table.bat**: A Windows batch script to convert certain text inputs into a Markdown table format, demonstrating the utility for managing vocabulary lists.
+- **script-to-generate-markdown-table.sh**: A Unix shell script to convert certain text inputs into a Markdown table format, demonstrating the utility for managing vocabulary lists on Unix based systems like Linux and Mac.
 
 ## Usage
 
