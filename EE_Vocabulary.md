@@ -62,7 +62,8 @@
 |accelerometer|加速度计|
 |acceptance of the mass filter|滤质器的接收容限|
 |acceptance test|验[交]收检验|
-|access|存取 access time,存取时间|
+|access|存取|
+|access time|存取时间|
 |accessibility|可及性|
 |accessories of testing machine|试验机附件|
 |accessory(for a measuring instrument)|（测量仪表的）附件|
@@ -71,7 +72,7 @@
 |accumulated error|积累误差|
 |accumulated time difference|累积时差|
 |accumulative rain-gauge|累积雨量器|
-|accumulator|累加 器|
+|accumulator|累加器|
 |accuracy|精[准]确度|
 |accuracy class|精[准]确度等级|
 |accuracy limit factor(of a protective current transformer）|（保护用电流互感器的）精确度极限因数|
@@ -132,7 +133,8 @@
 |active gauge metal indicated electrode|活性金属指示电极|
 |active remote sensing|主动遥感|
 |active transducer[sensor]|有源传感器|
-|activity|活度 activity coefficient,活度系数|
+|activity|活度|
+|activity coefficient|活度系数|
 |actual material calibration|实物校准|
 |actual time of observation|实际观测时间|
 |actual transformation ratio of voltage transformer|电压互感器的实际变化|
@@ -501,7 +503,8 @@
 |band|频带|
 |bandwidth|带宽|
 |bandwidth of video amplifier|视频放大器频宽|
-|bar primary bushing type current transformer|棒形电流互感器 barograph,气压计|
+|bar primary bushing type current transformer|棒形电流互感器|
+|barograph|气压计|
 |barometer cistern|气压表水银槽|
 |barometer|气压表|
 |barometric correction|气压表器差修正|
@@ -531,7 +534,8 @@
 |beam path distance|声程|
 |beam ratio|声束比|
 |beam spot diameter|束斑直径|
-|beam-deflection ultrasonic flowmeter|声速偏转式超声流量计 beam-loading thermobalance,水平式热天平|
+|beam-deflection ultrasonic flowmeter|声速偏转式超声流量计|
+|beam-loading thermobalance|水平式热天平|
 |bearing|轴承；刀承|
 |bearing axis|轴承中心线|
 |bearing support|支承架|
@@ -558,7 +562,7 @@
 |bilateral current stabilizer|双向稳流器|
 |bimetallic element|双金属元件|
 |bimetallic instrument|双金属式仪表|
-|bimetallic temperature transducer[sensor]|双金属温度传感器 |
+|bimetallic temperature transducer[sensor]|双金属温度传感器|
 |bimetallic thermometer|双金属温度计|
 |binary coded decimal(BCD)|二-十进制编码|
 |binary control|二进制控制|
@@ -569,7 +573,7 @@
 |binary signal|二进制信号|
 |biomedical analyzer|生物医学分析仪|
 |biochemical oxygen demand (BOD)microbial transducer[sensor]|微生物BOD 传感器|
-|biochemical oxygen demand meter for seawater|海水生化需氧量测定 仪|
+|biochemical oxygen demand meter for seawater|海水生化需氧量测定仪|
 |biochemical quantity transducer[sensor]|生化量传感器|
 |biological quantity transducer[sensor]|生物量传感器|
 |biosensor|生物传感器|
@@ -704,7 +708,7 @@
 |calculated maximum flow coefficient|最大计算流量系数|
 |calculated normal flow coefficient|正常计算流量系数|
 |calibrate|定标|
-|calibrated measuring volumetric]tank|校准测量[容积计量]容器|
+|calibrated measuring [volumetric]tank|校准测量[容积计量]容器|
 |calibrating period|校准周期|
 |calibrating voltage|校准电压|
 |calibration|校准|
@@ -996,7 +1000,7 @@
 |decision space|决策空间|
 |decision support system|决策支持系统|
 |decision table|判定表|
-|decision theory，决策（理）论||
+|decision theory|决策（理）论|
 |decision tree|决策树|
 |decrement ratio|减幅比|
 |deep sea instrument capsule|深海仪器舱|
@@ -1155,7 +1159,7 @@
 |economic index|经济指数|
 |economic indicator|经济指标|
 |economic model|经济模型|
-|economic system model.经济系统模型||
+|economic system model|经济系统模型|
 |eddy-current|涡流|
 |eddy-current displacement vibration amplitude measuring instrument|电涡流式位移振幅测量仪|
 |eddy-current displacement vibration amplitude transducer|电涡注式位移振幅传感器|
@@ -1172,11 +1176,11 @@
 |effective data transfer rate|有效数据传送率|
 |effective diaphragm area|膜片有效面积|
 |effective emissivity|有效发射率|
-|effective excitaion force|有效激振力|
+|effective excitation force|有效激振力|
 |effective magnetic field|有效磁场|
 |effective mass of the moving element|运动部件有效质量|
 |effective path length|有效光程长度|
-|effective radiation exitance|有效辐（射）出（射）度|
+|effective radiation existence|有效辐（射）出（射）度|
 |effective range|有效范围；有效量限；测量范围|
 |effective sound pressure|有效声压|
 |effectiveness|有效性|
@@ -1301,7 +1305,7 @@
 |electron optics|电子光学|
 |electron paramagnetic resonance spectroscopy; EPR spectroscopy|电子顺磁共振波谱法|
 |electron probe|电子探针|
-|electron probe micro-analysis(EPMA)电子探针微分析||
+|electron probe micro-analysis(EPMA)|电子探针微分析|
 |electron probe X-ray microanalyzer|电子探针X射线微区分析仪|
 |electron spectrometer|电子能谱仪|
 ## 电子类专业英语词汇 F 
